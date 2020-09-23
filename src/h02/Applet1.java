@@ -12,7 +12,7 @@ public class Applet1 extends Applet {
 
     public void paint(Graphics g) {
         g.setColor(Color.yellow);
-        g.drawString("May Hoang", 50, 50);
+        g.drawString("May", 50, 50);
     }
 
 }
