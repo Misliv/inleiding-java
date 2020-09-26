@@ -10,8 +10,10 @@ public class Applet2 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString(May);
-        g.drawString(Hoang);
+        g.setColor(Color.BLUE);
+        g.drawString("May", 50, 50);
+        g.setColor(Color.RED);
+        g.drawString("Hoang", 50, 65);
 
     }
 }
