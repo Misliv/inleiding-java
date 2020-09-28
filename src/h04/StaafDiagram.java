@@ -22,10 +22,13 @@ public class StaafDiagram extends Applet {
         g.drawString("80", 60, 125);
         g.drawString("100", 54, 88);
         //Valerie
+        g.drawString("Valerie", 105,290);
         g.drawRect(100, 10,51,265);
         //Jeroen
+        g.drawString("Jeroen", 181, 290);
         g.drawRect(176, 10,51,265);
         //Hans
+        g.drawString("Hans", 262, 290);
         g.drawRect(252, 10,51,265);
 
     }
