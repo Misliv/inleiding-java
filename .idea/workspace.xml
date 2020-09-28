@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="rectangle/door added">
-      <change beforePath="$PROJECT_DIR$/src/h04/HuisMetRaamEnDeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/HuisMetRaamEnDeur.java" afterDir="false" />
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="general diagram made and sorted code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/StaafDiagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/StaafDiagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.HuisMetRaamEnDeur">
+  <component name="RunManager" selected="Applet.StaafDiagram">
     <configuration name="Applet1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Applet1" />
       <module name="inleiding-java" />
@@ -88,15 +89,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuisMetRaamEnDeur" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.HuisMetRaamEnDeur" />
+    <configuration name="NederlandsVlagAanEen..." type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.NederlandsVlagAanEenVlaggenstok" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NederlandsVlagAanEen..." type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.NederlandsVlagAanEenVlaggenstok" />
+    <configuration name="StaafDiagram" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.StaafDiagram" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,7 +114,7 @@
       <item itemvalue="Applet.Applet2" />
       <item itemvalue="Applet.GelijkbenigeDriehoek" />
       <item itemvalue="Applet.NederlandsVlagAanEen..." />
-      <item itemvalue="Applet.HuisMetRaamEnDeur" />
+      <item itemvalue="Applet.StaafDiagram" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -141,7 +142,7 @@
       <workItem from="1601084579719" duration="1551000" />
       <workItem from="1601301067191" duration="1285000" />
       <workItem from="1601316271965" duration="3733000" />
-      <workItem from="1601320931270" duration="5355000" />
+      <workItem from="1601320931270" duration="8431000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo!">
       <created>1600010678142</created>
@@ -213,7 +214,35 @@
       <option name="project" value="LOCAL" />
       <updated>1601326310777</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="left window added and sorted code">
+      <created>1601326538604</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601326538604</updated>
+    </task>
+    <task id="LOCAL-00012" summary="right window added">
+      <created>1601326627206</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601326627206</updated>
+    </task>
+    <task id="LOCAL-00013" summary="roof added">
+      <created>1601326779079</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601326779079</updated>
+    </task>
+    <task id="LOCAL-00014" summary="general diagram made and sorted code">
+      <created>1601329725624</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601329725624</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,21 +271,25 @@
     <MESSAGE value="red and blue rectangle, lightgray line added" />
     <MESSAGE value="square made" />
     <MESSAGE value="rectangle/door added" />
-    <option name="LAST_COMMIT_MESSAGE" value="rectangle/door added" />
+    <MESSAGE value="left window added and sorted code" />
+    <MESSAGE value="right window added" />
+    <MESSAGE value="roof added" />
+    <MESSAGE value="general diagram made and sorted code" />
+    <option name="LAST_COMMIT_MESSAGE" value="general diagram made and sorted code" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601324896456">
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601327081799">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1601324896456" />
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1601327081799" />
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601319801405">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1601319801405" />
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601324895388">
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601327081048">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1601324895388" />
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1601327081048" />
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600219855878">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -265,30 +298,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1600219163649" />
-    <state width="657" height="195" key="GridCell.Tab.0.bottom" timestamp="1601326415012">
+    <state width="657" height="195" key="GridCell.Tab.0.bottom" timestamp="1601330045065">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601326415012" />
-    <state width="657" height="195" key="GridCell.Tab.0.center" timestamp="1601326415012">
+    <state width="657" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601330045065" />
+    <state width="657" height="195" key="GridCell.Tab.0.center" timestamp="1601330045065">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601326415012" />
-    <state width="657" height="195" key="GridCell.Tab.0.left" timestamp="1601326415012">
+    <state width="657" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601330045065" />
+    <state width="657" height="195" key="GridCell.Tab.0.left" timestamp="1601330045064">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601326415012" />
-    <state width="657" height="195" key="GridCell.Tab.0.right" timestamp="1601326415012">
+    <state width="657" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601330045064" />
+    <state width="657" height="195" key="GridCell.Tab.0.right" timestamp="1601330045065">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601326415012" />
+    <state width="657" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601330045065" />
     <state x="181" y="0" key="SettingsEditor" timestamp="1601085017568">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1601085017568" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1601326312514">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1601329727142">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1601326312514" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1601329727142" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
