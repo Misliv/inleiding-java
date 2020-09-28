@@ -27,10 +27,12 @@ public class StaafDiagram extends Applet {
         g.fillRect(100, 200,51,75);
 
         //Jeroen 100 kg
+        g.setColor(Color.BLACK);
         g.drawString("Jeroen", 181, 290);
         g.setColor(Color.BLUE);
         g.fillRect(176, 88,51,187);
         //Hans 80 kg
+        g.setColor(Color.BLACK);
         g.drawString("Hans", 262, 290);
         g.setColor(Color.YELLOW);
         g.fillRect(252, 125,51,150);
