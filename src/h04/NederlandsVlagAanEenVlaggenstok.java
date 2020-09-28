@@ -15,7 +15,17 @@ public class NederlandsVlagAanEenVlaggenstok extends Applet {
         g.drawLine(60,300, 60, 75);
         g.drawOval(48,61, 15, 15);
 
-        //flag
+        //flag red
+        g.setColor(Color.RED);
+        g.fillRect(61,75, 250, 50);
+
+        //flag white
+        g.setColor(Color.lightGray);
+        g.drawLine(310, 125, 310, 175);
+
+        //flag blue
+        g.setColor(Color.BLUE);
+                g.fillRect(61,175,250,50);
 
 
     }
