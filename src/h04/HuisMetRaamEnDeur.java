@@ -10,7 +10,12 @@ public class HuisMetRaamEnDeur extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawRect(75,100, 200, 175);
+        //square house
+        g.drawRect(100,125, 200, 150);
+        g.drawRect(185,215, 30,60);
+
+        //roof
+
 
     }
 }
