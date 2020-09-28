@@ -17,6 +17,7 @@ public class HuisMetRaamEnDeur extends Applet {
         //left window
         g.drawRect(125,175,40,40);
         //right window
+        g.drawRect(235,175,40,40);
         //roof
 
 
