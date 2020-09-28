@@ -11,7 +11,7 @@ public class StaafDiagram extends Applet {
 
     public void paint(Graphics g) {
         //diagram
-        g.drawLine(75,75,75,275);
+        g.drawLine(75,88,75,275);
         g.drawLine(75,275,325,275);
         //KG
         g.drawString("KG", 25, 162);
@@ -21,15 +21,15 @@ public class StaafDiagram extends Applet {
         g.drawString("60", 60, 163);
         g.drawString("80", 60, 125);
         g.drawString("100", 54, 88);
-        //Valerie
+        //Valerie 40 kg
         g.drawString("Valerie", 105,290);
-        g.drawRect(100, 10,51,265);
-        //Jeroen
+        g.drawRect(100, 200,51,75);
+        //Jeroen 100 kg
         g.drawString("Jeroen", 181, 290);
-        g.drawRect(176, 10,51,265);
-        //Hans
+        g.drawRect(176, 88,51,187);
+        //Hans 80 kg
         g.drawString("Hans", 262, 290);
-        g.drawRect(252, 10,51,265);
+        g.drawRect(252, 125,51,150);
 
     }
 }
