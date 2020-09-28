@@ -1,4 +1,6 @@
 package h04;
 
-public class DobbelsteenVier {
+import java.applet.Applet;
+
+public class DobbelsteenVier extends Applet {
 }
