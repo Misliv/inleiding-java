@@ -12,5 +12,9 @@ public class PraktijkOpdrachtH4 extends Applet {
         g.drawString("Lijn",130,40);
         g.drawLine(25,20,250,20);
 
+        //Rechthoek
+        g.drawString("Rechthoek", 110,180);
+        g.drawRect(25,60,225,100);
+
     }
 }
