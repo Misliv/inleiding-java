@@ -16,5 +16,9 @@ public class PraktijkOpdrachtH4 extends Applet {
         g.drawString("Rechthoek", 110,180);
         g.drawRect(25,60,225,100);
 
+        //Afgeronde rechthoek
+        g.drawString("Afgeronde rechthoek", 82, 320);
+        g.drawRoundRect(25,200,225,100,30,30);
+
     }
 }
