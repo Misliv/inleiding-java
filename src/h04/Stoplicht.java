@@ -16,12 +16,13 @@ public class Stoplicht extends Applet {
         g.fillRect(190, 200, 20, 300);
         //red light
         g.setColor(Color.RED);
-        g.fillOval(180, 70, 40, 40);
+        g.fillOval(180, 85, 40, 40);
         //yellow light
         g.setColor(Color.yellow);
-        g.fillOval(180, 85, 40, 40);
+        g.fillOval(180, 130, 40, 40);
         //green light
         g.setColor(Color.GREEN);
+        g.fillOval(180,175,40,40);
 
 //dunno why its uneven on the bottom
     }
