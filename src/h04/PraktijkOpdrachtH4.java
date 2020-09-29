@@ -33,5 +33,19 @@ public class PraktijkOpdrachtH4 extends Applet {
         g.setColor(Color.magenta);
         g.fillOval(260,199,224,99);
 
+        //Taartpunt met ovaal eromheen
+        g.setColor(Color.yellow);
+        g.fillOval(494,60,224,99);
+        g.fillArc(494,70,224,99,185,170);
+        g.fillRect(494,110,225,14);
+        g.setColor(Color.MAGENTA);
+        g.fillArc(494,60,224,99,0,45);
+        g.setColor(Color.BLACK);
+        g.drawString("Taartpunt met ovaal eromheen",520,189);
+        g.drawOval(494,60,224,99);
+        g.drawArc(494,70,224,99,185,170);
+        g.drawLine(494,110,494,123);
+        g.drawLine(718,112,718,123);
+
     }
 }
