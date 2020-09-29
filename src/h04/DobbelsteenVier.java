@@ -29,12 +29,12 @@ public class DobbelsteenVier extends Applet {
         //zijde 6
         g.drawLine(100,90,215,70);
         g.drawLine(215,70,315,100);
-        g.fillOval(10,10,10,10);
-        g.fillOval(10,10,10,10);
-        g.fillOval(10,10,10,10);
-        g.fillOval(10,10,10,10);
-        g.fillOval(10,10,10,10);
-        g.fillOval(10,10,10,10);
+        g.fillOval(125,84,35,15);
+        g.fillOval(160,78,34,14);
+        g.fillOval(195,72,33,13);
+        g.fillOval(185,102,35,15);
+        g.fillOval(220,98,34,14);
+        g.fillOval(255,92,33,13);
 
     }
 }
