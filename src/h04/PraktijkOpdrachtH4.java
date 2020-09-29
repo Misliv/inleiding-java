@@ -24,6 +24,8 @@ public class PraktijkOpdrachtH4 extends Applet {
         g.drawString("Gevulde rechthoek met ovaal", 293, 180);
         g.setColor(Color.MAGENTA);
         g.fillRect(260,60,225,100);
+        g.setColor(Color.black);
+        g.drawOval(260,60,224,99);
 
     }
 }
