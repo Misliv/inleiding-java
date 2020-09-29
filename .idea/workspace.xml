@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="'Afgeronde rechthoek' made">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="oops forgot the oval, added weird oval">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h04/PraktijkOpdrachtH4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/PraktijkOpdrachtH4.java" afterDir="false" />
     </list>
@@ -187,7 +187,7 @@
       <workItem from="1601316271965" duration="3733000" />
       <workItem from="1601320931270" duration="13455000" />
       <workItem from="1601346584047" duration="1188000" />
-      <workItem from="1601391086314" duration="9535000" />
+      <workItem from="1601391086314" duration="10173000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo!">
       <created>1600010678142</created>
@@ -413,7 +413,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601419089536</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="'Gevulde rechthoek met ovaal' made">
+      <created>1601419472720</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1601419472720</updated>
+    </task>
+    <task id="LOCAL-00034" summary="oops forgot the oval, added weird oval">
+      <created>1601419613271</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1601419613271</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,8 +446,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="square made" />
-    <MESSAGE value="rectangle/door added" />
     <MESSAGE value="left window added and sorted code" />
     <MESSAGE value="right window added" />
     <MESSAGE value="roof added" />
@@ -457,7 +469,9 @@
     <MESSAGE value="'Lijn' made" />
     <MESSAGE value="'Rechthoek' made" />
     <MESSAGE value="'Afgeronde rechthoek' made" />
-    <option name="LAST_COMMIT_MESSAGE" value="'Afgeronde rechthoek' made" />
+    <MESSAGE value="'Gevulde rechthoek met ovaal' made" />
+    <MESSAGE value="oops forgot the oval, added weird oval" />
+    <option name="LAST_COMMIT_MESSAGE" value="oops forgot the oval, added weird oval" />
   </component>
   <component name="WindowStateProjectService">
     <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601403336821">
@@ -480,22 +494,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1600219163649" />
-    <state width="1317" height="169" key="GridCell.Tab.0.bottom" timestamp="1601419373626">
+    <state width="1317" height="169" key="GridCell.Tab.0.bottom" timestamp="1601419990233">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601419373626" />
-    <state width="1317" height="169" key="GridCell.Tab.0.center" timestamp="1601419373626">
+    <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601419990233" />
+    <state width="1317" height="169" key="GridCell.Tab.0.center" timestamp="1601419990233">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601419373626" />
-    <state width="1317" height="169" key="GridCell.Tab.0.left" timestamp="1601419373626">
+    <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601419990233" />
+    <state width="1317" height="169" key="GridCell.Tab.0.left" timestamp="1601419990233">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601419373626" />
-    <state width="1317" height="169" key="GridCell.Tab.0.right" timestamp="1601419373626">
+    <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601419990233" />
+    <state width="1317" height="169" key="GridCell.Tab.0.right" timestamp="1601419990233">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601419373626" />
+    <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601419990233" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -516,10 +530,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1601085017568" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1601419090742">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1601419615814">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1601419090742" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1601419615814" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
