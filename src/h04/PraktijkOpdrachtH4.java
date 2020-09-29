@@ -47,5 +47,9 @@ public class PraktijkOpdrachtH4 extends Applet {
         g.drawLine(494,110,494,123);
         g.drawLine(718,112,718,123);
 
+        //Cirkel
+        g.drawString("Cirkel",589,325);
+        g.drawOval(555,209,100,100);
+
     }
 }
