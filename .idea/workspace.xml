@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="'Taartpunt met ovaal eromheen' made">
-      <change beforePath="$PROJECT_DIR$/src/h04/PraktijkOpdrachtH4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/PraktijkOpdrachtH4.java" afterDir="false" />
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="vragen">
+      <change afterPath="$PROJECT_DIR$/src/h05/PraktijkOpdrachtH5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.PraktijkOpdrachtH4">
+  <component name="RunManager" selected="Applet.PraktijkOpdrachtH5">
     <configuration name="Applet1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Applet1" />
       <module name="inleiding-java" />
@@ -116,6 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PraktijkOpdrachtH5" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.PraktijkOpdrachtH5" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaafDiagram" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.StaafDiagram" />
       <module name="inleiding-java" />
@@ -136,17 +144,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.Applet1" />
       <item itemvalue="Applet.Applet2" />
@@ -155,6 +152,7 @@
       <item itemvalue="Applet.StaafDiagram" />
       <item itemvalue="Applet.DobbelsteenVier" />
       <item itemvalue="Applet.PraktijkOpdrachtH4" />
+      <item itemvalue="Applet.PraktijkOpdrachtH5" />
       <item itemvalue="Applet.GeleEllipsMetBlauweA..." />
       <item itemvalue="Applet.Stoplicht" />
     </list>
@@ -186,7 +184,8 @@
       <workItem from="1601316271965" duration="3733000" />
       <workItem from="1601320931270" duration="13455000" />
       <workItem from="1601346584047" duration="1188000" />
-      <workItem from="1601391086314" duration="12218000" />
+      <workItem from="1601391086314" duration="15765000" />
+      <workItem from="1601491802931" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo!">
       <created>1600010678142</created>
@@ -440,7 +439,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601421853892</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="'Cirkel' made">
+      <created>1601422311407</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1601422311407</updated>
+    </task>
+    <task id="LOCAL-00038" summary="vragen">
+      <created>1601425750728</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1601425750728</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,8 +472,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="roof added" />
-    <MESSAGE value="general diagram made and sorted code" />
     <MESSAGE value="fixed height + added numbers on left" />
     <MESSAGE value="added names under rectangles" />
     <MESSAGE value="fixed diagram, made rectangles the right height" />
@@ -484,21 +495,23 @@
     <MESSAGE value="oops forgot the oval, added weird oval" />
     <MESSAGE value="'Gevulde ovaal' made" />
     <MESSAGE value="'Taartpunt met ovaal eromheen' made" />
-    <option name="LAST_COMMIT_MESSAGE" value="'Taartpunt met ovaal eromheen' made" />
+    <MESSAGE value="'Cirkel' made" />
+    <MESSAGE value="vragen" />
+    <option name="LAST_COMMIT_MESSAGE" value="vragen" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601403336821">
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601426097610">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1601403336821" />
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1601426097610" />
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601319801405">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1601319801405" />
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601403334768">
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601426095034">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1601403334768" />
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1601426095034" />
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600219855878">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -507,22 +520,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1600219163649" />
-    <state width="1317" height="169" key="GridCell.Tab.0.bottom" timestamp="1601422077655">
+    <state width="1317" height="169" key="GridCell.Tab.0.bottom" timestamp="1601493987719">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601422077655" />
-    <state width="1317" height="169" key="GridCell.Tab.0.center" timestamp="1601422077655">
+    <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
+    <state width="1317" height="169" key="GridCell.Tab.0.center" timestamp="1601493987719">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601422077655" />
-    <state width="1317" height="169" key="GridCell.Tab.0.left" timestamp="1601422077654">
+    <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
+    <state width="1317" height="169" key="GridCell.Tab.0.left" timestamp="1601493987719">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601422077654" />
-    <state width="1317" height="169" key="GridCell.Tab.0.right" timestamp="1601422077655">
+    <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
+    <state width="1317" height="169" key="GridCell.Tab.0.right" timestamp="1601493987719">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601422077655" />
+    <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -543,10 +556,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1601085017568" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1601421855734">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1601425752119">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1601421855734" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1601425752119" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
