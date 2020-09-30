@@ -1,0 +1,7 @@
+1. Combinatie van een processor en een besturingssysteem.
+2. De broncode wordt vertaald naar een tussentaal die standaard is en tijdens de uitvoering wordt het weer vertaald voor het betreffende platform
+3. Bytecode is een tussentaal die de JVM kan lezen
+4. JVM vertaald bytecode naar machinetaal
+5. g.drawRect()
+6. g.drawOval(), g.fillOval(), g.drawArc()
+7. paint() paints the container
