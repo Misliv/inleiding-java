@@ -4,9 +4,6 @@ import java.applet.Applet;
 import java.awt.*;
 
 public class StaafDiagram2 extends Applet {
-    int Valerie;
-    int Jeroen;
-    int Hans;
 
     public void init() {
 
@@ -27,6 +24,7 @@ public class StaafDiagram2 extends Applet {
         //Valerie 40 kg
         g.drawString("Valerie", 105, 290);
         g.setColor(Color.red);
+        //i dont think if statements are right but it works and cant think of anything else rn ¯\_(ツ)_/¯
         int Valerie = 40;
         if (Valerie == 20) {
             g.fillRect(100, 235, 51, 40);

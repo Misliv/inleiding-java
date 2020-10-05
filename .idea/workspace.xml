@@ -201,7 +201,7 @@
       <workItem from="1601346584047" duration="1188000" />
       <workItem from="1601391086314" duration="15765000" />
       <workItem from="1601491802931" duration="2054000" />
-      <workItem from="1601923341636" duration="4377000" />
+      <workItem from="1601923341636" duration="4689000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo!">
       <created>1600010678142</created>
@@ -490,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601929038563</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="changed valeries weight to 40, added automatic graph change to jeroen and hans">
+      <created>1601929445360</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1601929445360</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +516,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="made rectangles filled with colour&#10;names werent supposed to change aswell" />
     <MESSAGE value="fixed names, is now black" />
     <MESSAGE value="added blue background, red oval, yellow slice" />
     <MESSAGE value="added black shape + sorted code" />
@@ -534,7 +540,8 @@
     <MESSAGE value="added variables" />
     <MESSAGE value="changed y1 from  88 to 75 in line 14" />
     <MESSAGE value="i made it so if the weight changes, the graph does aswell on valerie only" />
-    <option name="LAST_COMMIT_MESSAGE" value="i made it so if the weight changes, the graph does aswell on valerie only" />
+    <MESSAGE value="changed valeries weight to 40, added automatic graph change to jeroen and hans" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed valeries weight to 40, added automatic graph change to jeroen and hans" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -559,34 +566,34 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1360.728@0.0.1360.728" timestamp="1600219855878" />
-    <state x="428" y="0" key="CommitChangelistDialog2" timestamp="1601929035664">
+    <state x="405" y="0" key="CommitChangelistDialog2" timestamp="1601929442185">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="428" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601929035664" />
+    <state x="405" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601929442185" />
     <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1600219163649">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1600219163649" />
-    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1601929130546">
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1601929674750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
-    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601929130546" />
-    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1601929130546">
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601929674750" />
+    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1601929674750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
-    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601929130546" />
-    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1601929130546">
+    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601929674750" />
+    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1601929674750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
-    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601929130546" />
-    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1601929130546">
+    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601929674750" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1601929674750">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
-    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601929130546" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601929674750" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -608,11 +615,11 @@
     </state>
     <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1601085017568" />
     <state x="182" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601926073992" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1601929040009">
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1601929451919">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1601425752119" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601929040009" />
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601929451919" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
