@@ -27,7 +27,7 @@ public class StaafDiagram2 extends Applet {
         //Valerie 40 kg
         g.drawString("Valerie", 105, 290);
         g.setColor(Color.red);
-        int Valerie = 100;
+        int Valerie = 40;
         if (Valerie == 20) {
             g.fillRect(100, 235, 51, 40);
         } else if (Valerie == 40) {
@@ -44,13 +44,35 @@ public class StaafDiagram2 extends Applet {
         g.setColor(Color.BLACK);
         g.drawString("Jeroen", 181, 290);
         g.setColor(Color.BLUE);
-        g.fillRect(176, 88,51,187);
+        int Jeroen = 100;
+        if (Jeroen == 20) {
+            g.fillRect(176, 235, 51, 40);
+        } else if (Jeroen == 40) {
+            g.fillRect(176, 195, 51, 80);
+        } else if (Jeroen == 60) {
+            g.fillRect(176, 160, 51, 115);
+        }   else if (Jeroen == 80) {
+            g.fillRect(176, 120, 51, 155);
+        } else if (Jeroen == 100) {
+            g.fillRect(176, 75, 51, 200);
+        }
 
         //Hans 80 kg
         g.setColor(Color.BLACK);
         g.drawString("Hans", 262, 290);
         g.setColor(Color.YELLOW);
-        g.fillRect(252, 125,51,150);
+        int Hans = 80;
+        if (Hans == 20) {
+            g.fillRect(252, 235, 51, 40);
+        } else if (Hans == 40) {
+            g.fillRect(252, 195, 51, 80);
+        } else if (Hans == 60) {
+            g.fillRect(252, 160, 51, 115);
+        }   else if (Hans == 80) {
+            g.fillRect(252, 120, 51, 155);
+        } else if (Hans == 100) {
+            g.fillRect(252, 75, 51, 200);
+        }
 
     }
 }
