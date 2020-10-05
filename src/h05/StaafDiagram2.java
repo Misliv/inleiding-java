@@ -14,8 +14,8 @@ public class StaafDiagram2 extends Applet {
 
     public void paint(Graphics g) {
         //diagram
-        g.drawLine(75,75,75,275);
-        g.drawLine(75,275,325,275);
+        g.drawLine(75, 75, 75, 275);
+        g.drawLine(75, 275, 325, 275);
         //KG
         g.drawString("KG", 25, 162);
         g.drawString("0", 65, 275);
@@ -25,14 +25,20 @@ public class StaafDiagram2 extends Applet {
         g.drawString("80", 60, 125);
         g.drawString("100", 54, 88);
         //Valerie 40 kg
-        g.drawString("Valerie", 105,290);
+        g.drawString("Valerie", 105, 290);
         g.setColor(Color.red);
-        int Valerie = 20;
+        int Valerie = 100;
         if (Valerie == 20) {
-        g.fillRect(100, 225,51,75);
+            g.fillRect(100, 235, 51, 40);
         } else if (Valerie == 40) {
-                g.fillRect(100, 200,51,75);
-            }
+            g.fillRect(100, 195, 51, 80);
+        } else if (Valerie == 60) {
+            g.fillRect(100, 160, 51, 115);
+        }   else if (Valerie == 80) {
+            g.fillRect(100, 120, 51, 155);
+        } else if (Valerie == 100) {
+            g.fillRect(100, 75, 51, 200);
+        }
 
         //Jeroen 100 kg
         g.setColor(Color.BLACK);
