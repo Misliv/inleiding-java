@@ -11,7 +11,7 @@ public class StaafDiagram extends Applet {
 
     public void paint(Graphics g) {
         //diagram
-        g.drawLine(75,88,75,275);
+        g.drawLine(75,75,75,275);
         g.drawLine(75,275,325,275);
         //KG
         g.drawString("KG", 25, 162);
