@@ -4,6 +4,9 @@ import java.applet.Applet;
 import java.awt.*;
 
 public class StaafDiagram2 extends Applet {
+    int Valerie;
+    int Jeroen;
+    int Hans;
 
     public void init() {
 

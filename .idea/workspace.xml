@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="vragen">
-      <change afterPath="$PROJECT_DIR$/src/h05/PraktijkOpdrachtH5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h05/StaafDiagram2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/StaafDiagram2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +186,7 @@
       <workItem from="1601346584047" duration="1188000" />
       <workItem from="1601391086314" duration="15765000" />
       <workItem from="1601491802931" duration="2054000" />
+      <workItem from="1601923341636" duration="1081000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo!">
       <created>1600010678142</created>
