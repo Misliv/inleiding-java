@@ -24,6 +24,7 @@ public class OpenAvondBezoek extends Applet {
     class KnopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             schermtekst = "it works!";
+            repaint();
 
         }
     }
