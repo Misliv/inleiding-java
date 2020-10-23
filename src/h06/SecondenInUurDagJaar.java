@@ -22,8 +22,8 @@ public class SecondenInUurDagJaar extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString("Seconden in een uur" + uur, 10, 20);
-        g.drawString("Seconden in een dag" + dag, 10,40);
-        g.drawString("Seconden in een jaar" + jaar,10,60);
+        g.drawString("Seconden in een uur: " + uur, 10, 20);
+        g.drawString("Seconden in een dag: " + dag, 10,40);
+        g.drawString("Seconden in een jaar: " + jaar,10,60);
     }
 }
