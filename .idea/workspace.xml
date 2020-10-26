@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="added variables and strings">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="added colons and spaces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/AddPositiveMakeNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/AddPositiveMakeNegative.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +67,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Applet.SecondenInUurDagJaar">
-    <configuration name="Applet1" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.Applet1" />
+  <component name="RunManager" selected="Applet.AddPositiveMakeNegat...">
+    <configuration name="AddPositiveMakeNegat..." type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.AddPositiveMakeNegative" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Applet2" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.Applet2" />
+    <configuration name="Applet1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Applet1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,7 +188,7 @@
     </configuration>
     <list>
       <item itemvalue="Applet.Applet1" />
-      <item itemvalue="Applet.Applet2" />
+      <item itemvalue="Applet.AddPositiveMakeNegat..." />
       <item itemvalue="Applet.GelijkbenigeDriehoek" />
       <item itemvalue="Applet.NederlandsVlagAanEen..." />
       <item itemvalue="Applet.StaafDiagram" />
@@ -242,7 +243,10 @@
       <workItem from="1603247348103" duration="157000" />
       <workItem from="1603248150435" duration="5001000" />
       <workItem from="1603382266320" duration="417000" />
-      <workItem from="1603458243179" duration="2493000" />
+      <workItem from="1603458243179" duration="3441000" />
+      <workItem from="1603713553480" duration="927000" />
+      <workItem from="1603730302999" duration="1065000" />
+      <workItem from="1603748396804" duration="1813000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo!">
       <created>1600010678142</created>
@@ -573,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603463973995</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="added colons and spaces">
+      <created>1603464223972</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1603464223972</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +603,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="yellow light fixed, green light added" />
     <MESSAGE value="sorted and has a line" />
     <MESSAGE value="sorted and has two lines" />
     <MESSAGE value="square made + 2 new lines" />
@@ -617,27 +627,28 @@
     <MESSAGE value="i added a button" />
     <MESSAGE value="the button does something now" />
     <MESSAGE value="added variables and strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="added variables and strings" />
+    <MESSAGE value="added colons and spaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="added colons and spaces" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1601926109344" />
-    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603463805178">
+    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603748644438">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603463805178" />
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603748644438" />
     <state x="145" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266599120" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603263926957">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1601319801405" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1603263926957" />
-    <state x="421" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603266597757">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603748642184">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1601426095034" />
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603748642184" />
     <state x="421" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266597757" />
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600219855878">
       <screen x="0" y="0" width="1360" height="728" />
@@ -655,25 +666,25 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1283" height="176" key="GridCell.Tab.0.bottom" timestamp="1603266525329">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1317" height="169" key="GridCell.Tab.0.bottom" timestamp="1603464237442">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
+    <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
     <state width="1283" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603266525329" />
-    <state width="1283" height="176" key="GridCell.Tab.0.center" timestamp="1603266525328">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1317" height="169" key="GridCell.Tab.0.center" timestamp="1603464237442">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
+    <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
     <state width="1283" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1283" height="176" key="GridCell.Tab.0.left" timestamp="1603266525328">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1317" height="169" key="GridCell.Tab.0.left" timestamp="1603464237442">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
+    <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
     <state width="1283" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1283" height="176" key="GridCell.Tab.0.right" timestamp="1603266525328">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1317" height="169" key="GridCell.Tab.0.right" timestamp="1603464237442">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1601493987719" />
+    <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
     <state width="1283" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
@@ -696,10 +707,10 @@
     </state>
     <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1603464094247" />
     <state x="182" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601926073992" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603463975503">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603464227996">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603463975503" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603464227996" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603266020022" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
