@@ -3,7 +3,7 @@ package h04;
 import java.applet.Applet;
 import java.awt.*;
 
-public class NederlandsVlagAanEenVlaggenstok extends Applet {
+public class Opdracht4_3 extends Applet {
 
     public void init() {
 
@@ -25,7 +25,7 @@ public class NederlandsVlagAanEenVlaggenstok extends Applet {
 
         //flag blue
         g.setColor(Color.BLUE);
-                g.fillRect(61,175,250,50);
+        g.fillRect(61,175,250,50);
 
 
     }

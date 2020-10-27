@@ -3,7 +3,7 @@ package h04;
 import java.applet.Applet;
 import java.awt.*;
 
-public class StaafDiagram extends Applet {
+public class Opdracht4_4 extends Applet {
 
     public void init() {
 

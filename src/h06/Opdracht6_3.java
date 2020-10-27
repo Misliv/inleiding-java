@@ -3,7 +3,8 @@ package h06;
 import java.applet.Applet;
 import java.awt.*;
 
-public class AddPositiveMakeNegative extends Applet {
+public class Opdracht6_3 extends Applet {
+
     int maxnumber;
     int number;
     int uitkomst;

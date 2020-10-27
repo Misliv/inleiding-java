@@ -1,9 +1,9 @@
 package h02;
 
-import java.applet.*;
+import java.applet.Applet;
 import java.awt.*;
 
-public class Applet1 extends Applet {
+public class Opdracht2_1 extends Applet {
 
     public void init() {
         setBackground(Color.blue);
@@ -16,3 +16,4 @@ public class Applet1 extends Applet {
     }
 
 }
+

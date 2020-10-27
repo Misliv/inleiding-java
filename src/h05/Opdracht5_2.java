@@ -3,7 +3,7 @@ package h05;
 import java.applet.Applet;
 import java.awt.*;
 
-public class StaafDiagram2 extends Applet {
+public class Opdracht5_2 extends Applet {
 
     public void init() {
 
@@ -74,4 +74,3 @@ public class StaafDiagram2 extends Applet {
 
     }
 }
-

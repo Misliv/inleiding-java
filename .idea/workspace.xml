@@ -19,9 +19,37 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="added colons and spaces">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="made an equation">
+      <change afterPath="$PROJECT_DIR$/src/h02/Opdracht2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h02/Opdracht2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h05/Opdracht5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h05/Opdracht5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Opdracht6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Opdracht6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/Opdracht6_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/AddPositiveMakeNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/AddPositiveMakeNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h01/HalloRocDev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/Applet1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/Applet2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/DobbelsteenVier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/GeleEllipsMetBlauweAchtergrond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/GelijkbenigeDriehoek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/HuisMetRaamEnDeur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/NederlandsVlagAanEenVlaggenstok.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/StaafDiagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/Stoplicht.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h05/PraktijkOpdrachtH5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h05/StaafDiagram2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/AddPositiveMakeNegative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/GeldVerdelen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/SecondenInUurDagJaar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,114 +95,100 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Applet.AddPositiveMakeNegat...">
-    <configuration name="AddPositiveMakeNegat..." type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h06.AddPositiveMakeNegative" />
+  <component name="RunManager" selected="Applet.Opdracht6_3">
+    <configuration name="Opdracht2_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Applet1" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.Applet1" />
+    <configuration name="Opdracht2_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_2" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DobbelsteenVier" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.DobbelsteenVier" />
+    <configuration name="Opdracht4_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeldVerdelen" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h06.GeldVerdelen" />
+    <configuration name="Opdracht4_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_2" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeleEllipsMetBlauweA..." type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.GeleEllipsMetBlauweAchtergrond" />
+    <configuration name="Opdracht4_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GelijkbenigeDriehoek" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.GelijkbenigeDriehoek" />
+    <configuration name="Opdracht4_4" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_4" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuisMetRaamEnDeur" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.HuisMetRaamEnDeur" />
+    <configuration name="Opdracht4_5" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_5" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NederlandsVlagAanEen..." type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.NederlandsVlagAanEenVlaggenstok" />
+    <configuration name="Opdracht4_6" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_6" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenAvondBezoek" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h08.OpenAvondBezoek" />
+    <configuration name="Opdracht4_7" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_7" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraktijkOpdrachtH4" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.PraktijkOpdrachtH4" />
+    <configuration name="Opdracht5_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.Opdracht5_1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraktijkOpdrachtH5" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h05.PraktijkOpdrachtH5" />
+    <configuration name="Opdracht5_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.Opdracht5_2" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondenInUurDagJaar" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h06.SecondenInUurDagJaar" />
+    <configuration name="Opdracht6_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Opdracht6_1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaafDiagram" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.StaafDiagram" />
+    <configuration name="Opdracht6_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Opdracht6_2" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaafDiagram2" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h05.StaafDiagram2" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Stoplicht" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h04.Stoplicht" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TweeKnoppen" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h08.TweeKnoppen" />
+    <configuration name="Opdracht6_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Opdracht6_3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,23 +200,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Applet.Applet1" />
-      <item itemvalue="Applet.AddPositiveMakeNegat..." />
-      <item itemvalue="Applet.GelijkbenigeDriehoek" />
-      <item itemvalue="Applet.NederlandsVlagAanEen..." />
-      <item itemvalue="Applet.StaafDiagram" />
-      <item itemvalue="Applet.StaafDiagram2" />
-      <item itemvalue="Applet.GeldVerdelen" />
-      <item itemvalue="Applet.OpenAvondBezoek" />
-      <item itemvalue="Applet.TweeKnoppen" />
-      <item itemvalue="Applet.SecondenInUurDagJaar" />
-      <item itemvalue="Applet.HuisMetRaamEnDeur" />
-      <item itemvalue="Applet.DobbelsteenVier" />
-      <item itemvalue="Applet.PraktijkOpdrachtH4" />
-      <item itemvalue="Applet.PraktijkOpdrachtH5" />
-      <item itemvalue="Applet.GeleEllipsMetBlauweA..." />
-      <item itemvalue="Applet.Stoplicht" />
+      <item itemvalue="Applet.Opdracht2_1" />
+      <item itemvalue="Applet.Opdracht2_2" />
+      <item itemvalue="Applet.Opdracht4_1" />
+      <item itemvalue="Applet.Opdracht4_2" />
+      <item itemvalue="Applet.Opdracht4_3" />
+      <item itemvalue="Applet.Opdracht4_4" />
+      <item itemvalue="Applet.Opdracht4_5" />
+      <item itemvalue="Applet.Opdracht4_6" />
+      <item itemvalue="Applet.Opdracht4_7" />
+      <item itemvalue="Applet.Opdracht5_1" />
+      <item itemvalue="Applet.Opdracht5_2" />
+      <item itemvalue="Applet.Opdracht6_1" />
+      <item itemvalue="Applet.Opdracht6_2" />
+      <item itemvalue="Applet.Opdracht6_3" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -246,7 +269,8 @@
       <workItem from="1603458243179" duration="3441000" />
       <workItem from="1603713553480" duration="927000" />
       <workItem from="1603730302999" duration="1065000" />
-      <workItem from="1603748396804" duration="1813000" />
+      <workItem from="1603748396804" duration="2043000" />
+      <workItem from="1603804267361" duration="2395000" />
     </task>
     <task id="LOCAL-00001" summary="Hallo!">
       <created>1600010678142</created>
@@ -584,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603464223972</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="made an equation">
+      <created>1603751175989</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1603751175989</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +634,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sorted and has a line" />
     <MESSAGE value="sorted and has two lines" />
     <MESSAGE value="square made + 2 new lines" />
     <MESSAGE value="made a cube + added an oval" />
@@ -628,27 +658,28 @@
     <MESSAGE value="the button does something now" />
     <MESSAGE value="added variables and strings" />
     <MESSAGE value="added colons and spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="added colons and spaces" />
+    <MESSAGE value="made an equation" />
+    <option name="LAST_COMMIT_MESSAGE" value="made an equation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1601926109344" />
-    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603748644438">
+    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603806092525">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603748644438" />
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603806092525" />
     <state x="145" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266599120" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603263926957">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1601319801405" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1603263926957" />
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603748642184">
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603806084935">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603748642184" />
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603806084935" />
     <state x="421" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266597757" />
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600219855878">
       <screen x="0" y="0" width="1360" height="728" />
@@ -666,25 +697,25 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1317" height="169" key="GridCell.Tab.0.bottom" timestamp="1603464237442">
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom" timestamp="1603805864515">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1603805864515" />
     <state width="1283" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603266525329" />
-    <state width="1317" height="169" key="GridCell.Tab.0.center" timestamp="1603464237442">
+    <state width="1317" height="166" key="GridCell.Tab.0.center" timestamp="1603805864514">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
+    <state width="1317" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1603805864514" />
     <state width="1283" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1317" height="169" key="GridCell.Tab.0.left" timestamp="1603464237442">
+    <state width="1317" height="166" key="GridCell.Tab.0.left" timestamp="1603805864514">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
+    <state width="1317" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1603805864514" />
     <state width="1283" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1317" height="169" key="GridCell.Tab.0.right" timestamp="1603464237442">
+    <state width="1317" height="166" key="GridCell.Tab.0.right" timestamp="1603805864514">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="169" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1603464237442" />
+    <state width="1317" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1603805864514" />
     <state width="1283" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
@@ -707,10 +738,14 @@
     </state>
     <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1603464094247" />
     <state x="182" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601926073992" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603464227996">
+    <state width="498" height="468" key="SwitcherDM" timestamp="1603805447706">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603464227996" />
+    <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603751177574">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603751177574" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603266020022" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
@@ -724,9 +759,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="271" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1600097406650" />
-    <state x="346" y="89" key="search.everywhere.popup" timestamp="1603247407071">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="344" y="84" key="search.everywhere.popup" timestamp="1603805563016">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
+    <state x="344" y="84" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1603805563016" />
     <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1603247407071" />
   </component>
 </project>

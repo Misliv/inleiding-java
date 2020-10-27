@@ -3,7 +3,7 @@ package h05;
 import java.applet.Applet;
 import java.awt.*;
 
-public class PraktijkOpdrachtH5 extends Applet {
+public class Opdracht5_1 extends Applet {
     Color opvulkleur;
     Color opvulkleurtwee;
     Color lijnkleur;
@@ -71,4 +71,3 @@ public class PraktijkOpdrachtH5 extends Applet {
 
     }
 }
-
