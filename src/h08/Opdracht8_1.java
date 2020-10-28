@@ -16,7 +16,7 @@ public class Opdracht8_1 extends Applet {
 
     public void init() {
         Textfield = new TextField("", 20);
-        label = new Label("Type something");
+        label = new Label("Type anything!");
         Okknop = new Button("Ok");
         Okknop.addActionListener( new OkknopListener() );
         add (label);
@@ -25,15 +25,18 @@ public class Opdracht8_1 extends Applet {
         Resetknop = new Button("Reset");
         Resetknop.addActionListener( new ResetknopListener() );
         add (Resetknop);
+        s = "";
     }
 
     public void paint(Graphics g) {
+
+        g.drawString(s,40,40);
 
     }
 
     class OkknopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            Textfield.setText("Test");
+            s = Textfield.getText();
             repaint();
         }
     }
