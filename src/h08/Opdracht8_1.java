@@ -35,7 +35,6 @@ public class Opdracht8_1 extends Applet {
 
     class KnopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            schermtekst = "it works!";
             s = Textfield.getText();
             repaint();
 
