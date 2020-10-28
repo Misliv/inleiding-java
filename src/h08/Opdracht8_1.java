@@ -26,6 +26,7 @@ public class Opdracht8_1 extends Applet {
         label = new Label("Type next to me!");
         add(label);
         add(Textfield);
+        s = "";
     }
 
     public void paint(Graphics g) {
