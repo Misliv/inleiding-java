@@ -1,5 +1,6 @@
 package h08;
 
+import javax.xml.soap.Text;
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -14,31 +15,25 @@ public class Opdracht8_1 extends Applet {
     String s;
 
     public void init() {
-        schermtekst = "Add text";
+        Textfield = new TextField("", 20);
         Okknop = new Button("Ok");
-        KnopListener kl = new KnopListener();
-        Okknop.addActionListener( kl );
-        add(Okknop);
+        Okknop.addActionListener( new OkknopListener() );
+        add (Textfield);
+        add (Okknop);
         Resetknop = new Button("Reset");
-        Resetknop.addActionListener( kl );
-        add(Resetknop);
-        Textfield = new TextField("Type here", 20);
-        label = new Label("Type next to me!");
-        add(label);
-        add(Textfield);
-        s = "";
+        Resetknop.addActionListener( new ResetknopListener() );
     }
 
     public void paint(Graphics g) {
-        g.drawString(schermtekst, 50,50);
 
     }
 
-    class KnopListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
-            s = Textfield.getText();
-            repaint();
+    class OkknopListener implements ActionListener {
 
-        }
+    }
+
+    class ResetknopListener implements ActionListener {
     }
 }
+
+
