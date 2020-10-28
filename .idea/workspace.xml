@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="changed from int to double">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="converted and got the answer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/PraktijkOpdrachtH6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/PraktijkOpdrachtH6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/Vragen H4" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/Vragen H4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/VragenH6" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/VragenH6" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,14 +249,7 @@
       <workItem from="1603730302999" duration="1065000" />
       <workItem from="1603748396804" duration="2043000" />
       <workItem from="1603804267361" duration="5109000" />
-      <workItem from="1603846484807" duration="2707000" />
-    </task>
-    <task id="LOCAL-00004" summary="Vragen hoofdstuk 2">
-      <created>1601319364059</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1601319364059</updated>
+      <workItem from="1603846484807" duration="5368000" />
     </task>
     <task id="LOCAL-00005" summary="Hoofdstuk 4 toegevoegd">
       <created>1601319843166</created>
@@ -593,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603847629328</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="converted and got the answer">
+      <created>1603849797750</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1603849797750</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +613,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added 3 more ovals" />
     <MESSAGE value="added 5 ovals to 'zijde 5'" />
     <MESSAGE value="added 6 ovals to 'zijde 6'" />
     <MESSAGE value="'Lijn' made" />
@@ -637,7 +637,8 @@
     <MESSAGE value="renamed everything" />
     <MESSAGE value="added ints + string" />
     <MESSAGE value="changed from int to double" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed from int to double" />
+    <MESSAGE value="converted and got the answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="converted and got the answer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -649,10 +650,10 @@
     </state>
     <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603846821610" />
     <state x="145" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266599120" />
-    <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603263926957">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603849845948">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1601319801405" />
+    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1603849845948" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1603263926957" />
     <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603846819268">
       <screen x="0" y="0" width="1360" height="728" />
@@ -679,25 +680,25 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1317" height="166" key="GridCell.Tab.0.bottom" timestamp="1603848983797">
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom" timestamp="1603849769629">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1603848983797" />
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1603849769629" />
     <state width="1283" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603266525329" />
-    <state width="1317" height="166" key="GridCell.Tab.0.center" timestamp="1603848983797">
+    <state width="1317" height="166" key="GridCell.Tab.0.center" timestamp="1603849769629">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1603848983797" />
+    <state width="1317" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1603849769629" />
     <state width="1283" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1317" height="166" key="GridCell.Tab.0.left" timestamp="1603848983796">
+    <state width="1317" height="166" key="GridCell.Tab.0.left" timestamp="1603849769629">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1603848983796" />
+    <state width="1317" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1603849769629" />
     <state width="1283" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1317" height="166" key="GridCell.Tab.0.right" timestamp="1603848983797">
+    <state width="1317" height="166" key="GridCell.Tab.0.right" timestamp="1603849769629">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1603848983797" />
+    <state width="1317" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1603849769629" />
     <state width="1283" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
@@ -724,10 +725,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603847656352">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603849799169">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603847656352" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603849799169" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603266020022" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />

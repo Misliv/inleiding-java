@@ -1,0 +1,6 @@
+1. Anders weet je niet welke waarde in een variabele staat, het kan een waarde
+   zijn van een vorige programma die toevallig dezelfde geheugencellen gebruiken
+2. Typecasting zorgt ervoor dat de compiler weet dat de programmeur er
+   bewust van is dat er informatie verloren kan gaan en dat accepteert
+3. 5,333333333333333, omdat het een double is
+4. 10,666666666666667, omdat het nu 8 / 3 is, daarna + 8
