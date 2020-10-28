@@ -19,10 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="converted and got the answer">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="vragen gemaakt">
+      <change afterPath="$PROJECT_DIR$/src/h08/Opdracht8_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h08/Opdracht8_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h08/Opdracht8_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h08/PraktijkOpdrachtH8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/Vragen H4" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/Vragen H4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/VragenH6" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/VragenH6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h07/H7 vragen" beforeDir="false" afterPath="$PROJECT_DIR$/src/h07/H7 vragen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h08/Bedrag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h08/OpenAvondBezoek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h08/Rekenmachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h08/TweeKnoppen.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +75,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Applet.PraktijkOpdrachtH6">
+  <component name="RunManager" selected="Applet.Opdracht8_1">
     <configuration name="Opdracht2_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_1" />
       <module name="inleiding-java" />
@@ -167,6 +174,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Opdracht8_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.Opdracht8_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht8_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.Opdracht8_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht8_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.Opdracht8_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PraktijkOpdrachtH4" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.PraktijkOpdrachtH4" />
       <module name="inleiding-java" />
@@ -181,8 +209,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PraktijkOpdrachtH8" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.PraktijkOpdrachtH8" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Applet">
       <option name="MAIN_CLASS_NAME" value="h02.Applet1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,6 +252,10 @@
       <item itemvalue="Applet.Opdracht6_2" />
       <item itemvalue="Applet.Opdracht6_3" />
       <item itemvalue="Applet.PraktijkOpdrachtH6" />
+      <item itemvalue="Applet.Opdracht8_1" />
+      <item itemvalue="Applet.Opdracht8_2" />
+      <item itemvalue="Applet.Opdracht8_3" />
+      <item itemvalue="Applet.PraktijkOpdrachtH8" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -249,14 +301,7 @@
       <workItem from="1603730302999" duration="1065000" />
       <workItem from="1603748396804" duration="2043000" />
       <workItem from="1603804267361" duration="5109000" />
-      <workItem from="1603846484807" duration="5368000" />
-    </task>
-    <task id="LOCAL-00005" summary="Hoofdstuk 4 toegevoegd">
-      <created>1601319843166</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1601319843166</updated>
+      <workItem from="1603846484807" duration="7776000" />
     </task>
     <task id="LOCAL-00006" summary="Gelijkbenige driehoek gemaakt">
       <created>1601321901204</created>
@@ -594,7 +639,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603849797750</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="vragen gemaakt">
+      <created>1603856560486</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1603856560531</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +665,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added 5 ovals to 'zijde 5'" />
     <MESSAGE value="added 6 ovals to 'zijde 6'" />
     <MESSAGE value="'Lijn' made" />
     <MESSAGE value="'Rechthoek' made" />
@@ -638,27 +689,28 @@
     <MESSAGE value="added ints + string" />
     <MESSAGE value="changed from int to double" />
     <MESSAGE value="converted and got the answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="converted and got the answer" />
+    <MESSAGE value="vragen gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="vragen gemaakt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1601926109344" />
-    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603846821610">
+    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603858643055">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603846821610" />
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603858643055" />
     <state x="145" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266599120" />
-    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603849845948">
+    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603858465133">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1603849845948" />
+    <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1603858465133" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1603263926957" />
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603846819268">
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603858639950">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603846819268" />
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603858639950" />
     <state x="421" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266597757" />
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600219855878">
       <screen x="0" y="0" width="1360" height="728" />
@@ -725,10 +777,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603849799169">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603856568066">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603849799169" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603856568065" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603266020022" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />

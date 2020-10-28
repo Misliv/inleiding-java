@@ -2,14 +2,16 @@ package h08;
 
 import java.applet.Applet;
 import java.awt.*;
-import java.awt.event.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
-public class TweeKnoppen extends Applet {
+public class Opdracht8_1 extends Applet {
     Button Okknop;
     Button Resetknop;
     TextField Textfield;
     Label label;
     String schermtekst;
+    String s;
 
     public void init() {
         schermtekst = "Add text";
@@ -34,6 +36,7 @@ public class TweeKnoppen extends Applet {
     class KnopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             schermtekst = "it works!";
+            s = Textfield.getText();
             repaint();
 
         }
