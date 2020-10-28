@@ -19,37 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="made an equation">
-      <change afterPath="$PROJECT_DIR$/src/h02/Opdracht2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h02/Opdracht2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h04/Opdracht4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h05/Opdracht5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h05/Opdracht5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Opdracht6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Opdracht6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Opdracht6_3.java" afterDir="false" />
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="renamed everything">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h01/HalloRocDev.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h02/Applet1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h02/Applet2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/DobbelsteenVier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/GeleEllipsMetBlauweAchtergrond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/GelijkbenigeDriehoek.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/HuisMetRaamEnDeur.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/NederlandsVlagAanEenVlaggenstok.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/StaafDiagram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h04/Stoplicht.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h05/PraktijkOpdrachtH5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h05/StaafDiagram2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/AddPositiveMakeNegative.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/GeldVerdelen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/SecondenInUurDagJaar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/PraktijkOpdrachtH6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/PraktijkOpdrachtH6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,17 +172,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.Opdracht2_1" />
       <item itemvalue="Applet.Opdracht2_2" />
@@ -270,14 +231,7 @@
       <workItem from="1603713553480" duration="927000" />
       <workItem from="1603730302999" duration="1065000" />
       <workItem from="1603748396804" duration="2043000" />
-      <workItem from="1603804267361" duration="2395000" />
-    </task>
-    <task id="LOCAL-00001" summary="Hallo!">
-      <created>1600010678142</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600010678142</updated>
+      <workItem from="1603804267361" duration="5109000" />
     </task>
     <task id="LOCAL-00002" summary="added applet code, classnotfoundexception">
       <created>1600376917526</created>
@@ -615,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603751175989</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="renamed everything">
+      <created>1603807315166</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1603807315166</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +595,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sorted and has two lines" />
     <MESSAGE value="square made + 2 new lines" />
     <MESSAGE value="made a cube + added an oval" />
     <MESSAGE value="added 3 more ovals" />
@@ -659,7 +619,8 @@
     <MESSAGE value="added variables and strings" />
     <MESSAGE value="added colons and spaces" />
     <MESSAGE value="made an equation" />
-    <option name="LAST_COMMIT_MESSAGE" value="made an equation" />
+    <MESSAGE value="renamed everything" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed everything" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -693,29 +654,33 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="365" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1603266016828" />
+    <state x="136" y="61" key="DiffContextDialog" timestamp="1603807340035">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="136" y="61" key="DiffContextDialog/0.0.1360.728@0.0.1360.728" timestamp="1603807340035" />
     <state x="510" y="218" key="FileChooserDialogImpl" timestamp="1603464069241">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1317" height="166" key="GridCell.Tab.0.bottom" timestamp="1603805864515">
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom" timestamp="1603812134914">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1603805864515" />
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1603812134914" />
     <state width="1283" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603266525329" />
-    <state width="1317" height="166" key="GridCell.Tab.0.center" timestamp="1603805864514">
+    <state width="1317" height="166" key="GridCell.Tab.0.center" timestamp="1603812134913">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1603805864514" />
+    <state width="1317" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1603812134913" />
     <state width="1283" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1317" height="166" key="GridCell.Tab.0.left" timestamp="1603805864514">
+    <state width="1317" height="166" key="GridCell.Tab.0.left" timestamp="1603812134913">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1603805864514" />
+    <state width="1317" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1603812134913" />
     <state width="1283" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
-    <state width="1317" height="166" key="GridCell.Tab.0.right" timestamp="1603805864514">
+    <state width="1317" height="166" key="GridCell.Tab.0.right" timestamp="1603812134913">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1603805864514" />
+    <state width="1317" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1603812134913" />
     <state width="1283" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603266525328" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
@@ -742,10 +707,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603751177574">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603807342591">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603751177574" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603807342591" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603266020022" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
