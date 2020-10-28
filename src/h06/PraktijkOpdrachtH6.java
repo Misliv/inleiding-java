@@ -4,10 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 public class PraktijkOpdrachtH6 extends Applet {
-    int cijfer1;
-    int cijfer2;
-    int cijfer3;
-    int uitkomst;
+    double cijfer1, cijfer2, cijfer3, uitkomst;
 
     public void init() {
         cijfer1 = 5.9;

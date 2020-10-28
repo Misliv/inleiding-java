@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="renamed everything">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="added ints + string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/PraktijkOpdrachtH6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/PraktijkOpdrachtH6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht6_3">
+  <component name="RunManager" selected="Applet.PraktijkOpdrachtH6">
     <configuration name="Opdracht2_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_1" />
       <module name="inleiding-java" />
@@ -166,6 +165,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PraktijkOpdrachtH4" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.PraktijkOpdrachtH4" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdrachtH6" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.PraktijkOpdrachtH6" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Applet">
       <option name="MAIN_CLASS_NAME" value="h02.Applet1" />
       <method v="2">
@@ -182,11 +195,13 @@
       <item itemvalue="Applet.Opdracht4_5" />
       <item itemvalue="Applet.Opdracht4_6" />
       <item itemvalue="Applet.Opdracht4_7" />
+      <item itemvalue="Applet.PraktijkOpdrachtH4" />
       <item itemvalue="Applet.Opdracht5_1" />
       <item itemvalue="Applet.Opdracht5_2" />
       <item itemvalue="Applet.Opdracht6_1" />
       <item itemvalue="Applet.Opdracht6_2" />
       <item itemvalue="Applet.Opdracht6_3" />
+      <item itemvalue="Applet.PraktijkOpdrachtH6" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -232,13 +247,7 @@
       <workItem from="1603730302999" duration="1065000" />
       <workItem from="1603748396804" duration="2043000" />
       <workItem from="1603804267361" duration="5109000" />
-    </task>
-    <task id="LOCAL-00002" summary="added applet code, classnotfoundexception">
-      <created>1600376917526</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1600376917526</updated>
+      <workItem from="1603846484807" duration="934000" />
     </task>
     <task id="LOCAL-00003" summary="Applet with white background, first name in blue, last name in red.">
       <created>1601086025606</created>
@@ -576,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603807315166</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="added ints + string">
+      <created>1603846672229</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1603846672230</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +611,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="square made + 2 new lines" />
     <MESSAGE value="made a cube + added an oval" />
     <MESSAGE value="added 3 more ovals" />
     <MESSAGE value="added 5 ovals to 'zijde 5'" />
@@ -620,27 +635,28 @@
     <MESSAGE value="added colons and spaces" />
     <MESSAGE value="made an equation" />
     <MESSAGE value="renamed everything" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed everything" />
+    <MESSAGE value="added ints + string" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ints + string" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1601926109344" />
-    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603806092525">
+    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603846821610">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603806092525" />
+    <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603846821610" />
     <state x="145" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266599120" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603263926957">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1601319801405" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1603263926957" />
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603806084935">
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603846819268">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603806084935" />
+    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603846819268" />
     <state x="421" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266597757" />
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600219855878">
       <screen x="0" y="0" width="1360" height="728" />
@@ -707,10 +723,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603807342591">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1603846708165">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603807342591" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603846708165" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603266020022" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
