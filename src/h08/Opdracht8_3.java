@@ -25,8 +25,8 @@ public class Opdracht8_3 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString(s,40,40);
-        g.drawString("Getal" + prijs, 50,50);
+        g.drawString(s,86,40);
+        g.drawString("Bedrag: " + prijs, 40,40);
 
     }
 
