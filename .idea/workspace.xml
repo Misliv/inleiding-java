@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/h08/Opdracht8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h08/Opdracht8_2.java" afterDir="false" />
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="vragen gemaakt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h08/Opdracht8_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h08/Opdracht8_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht8_1">
+  <component name="RunManager" selected="Applet.Opdracht8_3">
     <configuration name="Opdracht2_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_1" />
       <module name="inleiding-java" />
@@ -281,13 +282,7 @@
       <workItem from="1603804267361" duration="5109000" />
       <workItem from="1603846484807" duration="9040000" />
       <workItem from="1603871158464" duration="3962000" />
-    </task>
-    <task id="LOCAL-00011" summary="left window added and sorted code">
-      <created>1601326538604</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1601326538604</updated>
+      <workItem from="1604031939091" duration="691000" />
     </task>
     <task id="LOCAL-00012" summary="right window added">
       <created>1601326627206</created>
@@ -625,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603875680622</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="vragen gemaakt">
+      <created>1604032098100</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1604032098100</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -663,13 +665,13 @@
     <MESSAGE value="added ints + string" />
     <MESSAGE value="changed from int to double" />
     <MESSAGE value="converted and got the answer" />
-    <MESSAGE value="vragen gemaakt" />
     <MESSAGE value="added String s and s = Textfield.getText();" />
     <MESSAGE value="removed &quot;It works!&quot;" />
     <MESSAGE value="added s = &quot;&quot;!" />
     <MESSAGE value="made a textfield and a button that says &quot;ok&quot; and a button that says &quot;reset&quot;" />
     <MESSAGE value="the ok button now shows the message below the textfield and the resetbutton removes everything" />
-    <option name="LAST_COMMIT_MESSAGE" value="the ok button now shows the message below the textfield and the resetbutton removes everything" />
+    <MESSAGE value="vragen gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="vragen gemaakt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -756,10 +758,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1603875682119">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1604032100882">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1603861875566" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604032100882" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603875682119" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
