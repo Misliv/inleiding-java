@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="removed another s">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="added 4 :">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h08/Opdracht8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h08/Opdracht8_2.java" afterDir="false" />
     </list>
@@ -285,28 +285,8 @@
       <workItem from="1604031939091" duration="1526000" />
       <workItem from="1604033501282" duration="602000" />
       <workItem from="1604066590339" duration="2929000" />
-      <workItem from="1604309135511" duration="5261000" />
-    </task>
-    <task id="LOCAL-00020" summary="added blue background, red oval, yellow slice">
-      <created>1601333144143</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1601333144143</updated>
-    </task>
-    <task id="LOCAL-00021" summary="added black shape + sorted code">
-      <created>1601334328940</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1601334328940</updated>
-    </task>
-    <task id="LOCAL-00022" summary="added red and yellow light, yellow is in red light, ill fix later">
-      <created>1601335204116</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1601335204116</updated>
+      <workItem from="1604309135511" duration="8764000" />
+      <workItem from="1604319295400" duration="598000" />
     </task>
     <task id="LOCAL-00023" summary="yellow light fixed, green light added">
       <created>1601346820748</created>
@@ -630,7 +610,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604313769803</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="made 4 buttons">
+      <created>1604314959466</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1604314959466</updated>
+    </task>
+    <task id="LOCAL-00070" summary="added 4 labels">
+      <created>1604315081423</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1604315081423</updated>
+    </task>
+    <task id="LOCAL-00071" summary="added 4 :">
+      <created>1604315133893</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1604315133893</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,9 +650,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed valeries weight to 40, added automatic graph change to jeroen and hans" />
-    <MESSAGE value="split the cash between four people" />
-    <MESSAGE value="i added a button" />
     <MESSAGE value="the button does something now" />
     <MESSAGE value="added variables and strings" />
     <MESSAGE value="added colons and spaces" />
@@ -674,7 +672,10 @@
     <MESSAGE value="removed string s, added back prijs" />
     <MESSAGE value="added &quot;prijs + btw:&quot;" />
     <MESSAGE value="removed another s" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed another s" />
+    <MESSAGE value="made 4 buttons" />
+    <MESSAGE value="added 4 labels" />
+    <MESSAGE value="added 4 :" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 4 :" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -716,25 +717,25 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="657" height="166" key="GridCell.Tab.0.bottom" timestamp="1604314717565">
+    <state width="657" height="166" key="GridCell.Tab.0.bottom" timestamp="1604319967871">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604314717565" />
+    <state width="657" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604319967871" />
     <state width="1283" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
-    <state width="657" height="166" key="GridCell.Tab.0.center" timestamp="1604314717565">
+    <state width="657" height="166" key="GridCell.Tab.0.center" timestamp="1604319967871">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604314717565" />
+    <state width="657" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604319967871" />
     <state width="1283" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
-    <state width="657" height="166" key="GridCell.Tab.0.left" timestamp="1604314717565">
+    <state width="657" height="166" key="GridCell.Tab.0.left" timestamp="1604319967870">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604314717565" />
+    <state width="657" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604319967870" />
     <state width="1283" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
-    <state width="657" height="166" key="GridCell.Tab.0.right" timestamp="1604314717565">
+    <state width="657" height="166" key="GridCell.Tab.0.right" timestamp="1604319967871">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604314717565" />
+    <state width="657" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604319967871" />
     <state width="1283" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
@@ -761,10 +762,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1604313772387">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1604315135313">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604313772387" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604315135313" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603875682119" />
     <state x="497" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604311988516">
       <screen x="0" y="0" width="1360" height="728" />
