@@ -9,10 +9,8 @@ public class Opdracht8_3 extends Applet {
     Button Okknop;
     TextField Textfield;
     Label label;
-    String schermtekst;
     String s;
     double prijs;
-    double btw;
 
     public void init() {
         Textfield = new TextField("", 20);
@@ -23,12 +21,10 @@ public class Opdracht8_3 extends Applet {
         add (Textfield);
         add (Okknop);
         s = "";
-        btw = prijs / 100 * 21;
     }
 
     public void paint(Graphics g) {
-        g.drawString(s,86,40);
-        g.drawString("Bedrag: " + btw, 40,40);
+        g.drawString(s + prijs / 100 * 121,40,40);
 
     }
 
