@@ -20,7 +20,6 @@ public class Opdracht8_3 extends Applet {
         add (label);
         add (Textfield);
         add (Okknop);
-        s = "";
     }
 
     public void paint(Graphics g) {
