@@ -2,69 +2,72 @@ package h08;
 
 import java.applet.Applet;
 import java.awt.*;
-import java.awt.Event.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class PraktijkOpdrachtH8 extends Applet {
-    public class Opdracht8_3 extends Applet {
-        Button plus;
-        Button min;
-        Button vermenigvuldig;
-        Button delen;
-        TextField Textfield1;
-        TextField Textfield2;
-        double getal1;
-        double getal2;
-        double antwoord;
+    Button plusknop;
+    Button minknop;
+    Button vermenigvuldigknop;
+    Button delenknop;
+    TextField Textfield1;
+    TextField Textfield2;
+    double getal1;
+    double getal2;
+    double antwoord;
 
-        public void init() {
-            Textfield1 = new TextField("", 20);
-            Textfield2 = new TextField("", 40);
-            add (Textfield1);
-            add (Textfield2);
-            //plus
-            plus = new Button("+");
-            plus.addActionListener(new PraktijkOpdrachtH8.plusListener());
-            add (plus);
+    public void init() {
+        Textfield1 = new TextField("", 10);
+        add(Textfield1);
+        Textfield2 = new TextField("", 10);
+        add(Textfield2);
 
-            //min
-            min = new Button("-");
-            min.addActionListener(new PraktijkOpdrachtH8.minListener());
-            add (min);
+        //plus
+        plusknop = new Button("+");
+        plusknop.addActionListener(new PraktijkOpdrachtH8.plusknopListener());
+        add(plusknop);
 
-            //vermenigvuldig
-            vermenigvuldig = new Button("*");
-            vermenigvuldig.addActionListener(new PraktijkOpdrachtH8.vermenigvuldigListener());
-            add (vermenigvuldig);
+        //min
+        minknop = new Button("-");
+        minknop.addActionListener(new PraktijkOpdrachtH8.minknopListener());
+        add(minknop);
 
-            //delen
-            delen = new Button("/");
-            delen.addActionListener(new PraktijkOpdrachtH8.delenListener());
-            add (delen);
+        //vermenigvuldig
+        vermenigvuldigknop = new Button("*");
+        vermenigvuldigknop.addActionListener(new PraktijkOpdrachtH8.vermenigvuldigknopListener());
+        add(vermenigvuldigknop);
 
+        //delen
+        delenknop = new Button("/");
+        delenknop.addActionListener(new PraktijkOpdrachtH8.delenknopListener());
+        add(delenknop);
+
+    }
+
+    public void paint(Graphics g) {
+
+    }
+
+    class plusknopListener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
         }
     }
 
-        public void paint(Graphics g) {
-
-        }
-
-        class plusListener implements ActionListener {
-            public void actionPerformed(ActionEvent e) {
-            }
-        }
-        class minListener implements ActionListener {
-            public void actionPerformed(ActionEvent e) {
-            }
-        }
-        class vermenigvuldigListener implements ActionListener {
-            public void actionPerformed(ActionEvent e) {
-            }
-        }
-        class delenListener implements ActionListener {
-            public void actionPerformed(ActionEvent e) {
-            }
+    class minknopListener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
         }
     }
+
+    class vermenigvuldigknopListener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
+        }
+    }
+
+    class delenknopListener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
+        }
+    }
+}
+
+
 
