@@ -1,0 +1,6 @@
+1. event-handling zorgt ervoor dat er iets gebeurt als je op de knop drukt
+2. een gebruikersinterface is een beeld dat de gebruiker kan zien en gebruiken.
+3. Een tekstvak laat alleen iets zien, een knop kan meerdere dingen doen.
+4. Dat is een string met geen tekst.
+5. Een tekstvak kan je veranderen, een label kan je alleen lezen.
+6. Anders ziet de programma het niet als een nummer.
