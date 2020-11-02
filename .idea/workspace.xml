@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="realigned numbers, changed text to bedrag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h08/Opdracht8_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h08/Opdracht8_3.java" afterDir="false" />
     </list>
@@ -284,21 +284,8 @@
       <workItem from="1603871158464" duration="3962000" />
       <workItem from="1604031939091" duration="1526000" />
       <workItem from="1604033501282" duration="602000" />
-      <workItem from="1604066590339" duration="2035000" />
-    </task>
-    <task id="LOCAL-00013" summary="roof added">
-      <created>1601326779079</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1601326779079</updated>
-    </task>
-    <task id="LOCAL-00014" summary="general diagram made and sorted code">
-      <created>1601329725624</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1601329725624</updated>
+      <workItem from="1604066590339" duration="2929000" />
+      <workItem from="1604309135511" duration="1141000" />
     </task>
     <task id="LOCAL-00015" summary="fixed height + added numbers on left">
       <created>1601330430119</created>
@@ -629,7 +616,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604032684094</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="testing double">
+      <created>1604075190783</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1604075190783</updated>
+    </task>
+    <task id="LOCAL-00063" summary="realigned numbers, changed text to bedrag">
+      <created>1604075383307</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1604075383307</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,8 +649,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="'Gevulde ovaal' made" />
-    <MESSAGE value="'Taartpunt met ovaal eromheen' made" />
     <MESSAGE value="'Cirkel' made" />
     <MESSAGE value="vragen" />
     <MESSAGE value="added variables" />
@@ -673,7 +672,9 @@
     <MESSAGE value="the ok button now shows the message below the textfield and the resetbutton removes everything" />
     <MESSAGE value="vragen gemaakt" />
     <MESSAGE value="added label, textfield and ok button" />
-    <option name="LAST_COMMIT_MESSAGE" value="added label, textfield and ok button" />
+    <MESSAGE value="testing double" />
+    <MESSAGE value="realigned numbers, changed text to bedrag" />
+    <option name="LAST_COMMIT_MESSAGE" value="realigned numbers, changed text to bedrag" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -715,25 +716,25 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1317" height="166" key="GridCell.Tab.0.bottom" timestamp="1604074775898">
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom" timestamp="1604075341767">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604074775898" />
+    <state width="1317" height="166" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604075341767" />
     <state width="1283" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
-    <state width="1317" height="166" key="GridCell.Tab.0.center" timestamp="1604074775898">
+    <state width="1317" height="166" key="GridCell.Tab.0.center" timestamp="1604075341767">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604074775898" />
+    <state width="1317" height="166" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604075341767" />
     <state width="1283" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
-    <state width="1317" height="166" key="GridCell.Tab.0.left" timestamp="1604074775898">
+    <state width="1317" height="166" key="GridCell.Tab.0.left" timestamp="1604075341767">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604074775898" />
+    <state width="1317" height="166" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604075341767" />
     <state width="1283" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
-    <state width="1317" height="166" key="GridCell.Tab.0.right" timestamp="1604074775898">
+    <state width="1317" height="166" key="GridCell.Tab.0.right" timestamp="1604075341767">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604074775898" />
+    <state width="1317" height="166" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604075341767" />
     <state width="1283" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603875590212" />
     <state width="658" height="223" key="GridCell.Tab.1.bottom" timestamp="1601335215738">
       <screen x="0" y="0" width="1360" height="728" />
@@ -760,10 +761,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1604032685398">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1604075195692">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604032685398" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604075195692" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603875682119" />
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600376869489">
       <screen x="0" y="0" width="1360" height="728" />
