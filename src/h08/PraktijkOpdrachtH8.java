@@ -45,28 +45,46 @@ public class PraktijkOpdrachtH8 extends Applet {
     }
 
     public void paint(Graphics g) {
-
     }
 
-    class plusknopListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
+        class plusknopListener implements ActionListener{
+            public void actionPerformed(ActionEvent e){
+               getal1 = Double.parseDouble(Textfield1.getText());
+               getal2 = Double.parseDouble(Textfield2.getText());
+               antwoord = getal1 + getal2;
+               Textfield1.setText("" + antwoord);
+               Textfield2.setText("");
+            }
         }
-    }
-
-    class minknopListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
+        class minknopListener implements ActionListener {
+            public void actionPerformed(ActionEvent e) {
+                getal1 = Double.parseDouble(Textfield1.getText());
+                getal2 = Double.parseDouble(Textfield2.getText());
+                antwoord = getal1 - getal2;
+                Textfield1.setText("" + antwoord);
+                Textfield2.setText("");
+            }
         }
-    }
 
-    class vermenigvuldigknopListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
+        class vermenigvuldigknopListener implements ActionListener {
+            public void actionPerformed(ActionEvent e) {
+                getal1 = Double.parseDouble(Textfield1.getText());
+                getal2 = Double.parseDouble(Textfield2.getText());
+                antwoord = getal1 * getal2;
+                Textfield1.setText("" + antwoord);
+                Textfield2.setText("");
+            }
         }
-    }
 
-    class delenknopListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
+        class delenknopListener implements ActionListener {
+            public void actionPerformed(ActionEvent e) {
+                getal1 = Double.parseDouble(Textfield1.getText());
+                getal2 = Double.parseDouble(Textfield2.getText());
+                antwoord = getal1 / getal2;
+                Textfield1.setText("" + antwoord);
+                Textfield2.setText("");
+            }
         }
-    }
 }
 
 

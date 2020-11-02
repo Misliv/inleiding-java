@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="has code for button, textfields, nothing appears tho">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="found the problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h08/PraktijkOpdrachtH8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h08/PraktijkOpdrachtH8.java" afterDir="false" />
     </list>
@@ -288,14 +288,7 @@
       <workItem from="1604309135511" duration="8764000" />
       <workItem from="1604319295400" duration="3596000" />
       <workItem from="1604323900049" duration="4646000" />
-      <workItem from="1604344205094" duration="1256000" />
-    </task>
-    <task id="LOCAL-00025" summary="square made + 2 new lines">
-      <created>1601347793720</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1601347793720</updated>
+      <workItem from="1604344205094" duration="4154000" />
     </task>
     <task id="LOCAL-00026" summary="made a cube + added an oval">
       <created>1601395166148</created>
@@ -633,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604323669981</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="found the problem">
+      <created>1604347858819</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1604347858820</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,7 +652,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added colons and spaces" />
     <MESSAGE value="made an equation" />
     <MESSAGE value="renamed everything" />
     <MESSAGE value="added ints + string" />
@@ -677,7 +676,8 @@
     <MESSAGE value="added 4 :" />
     <MESSAGE value="added strings, every button gives the same text" />
     <MESSAGE value="has code for button, textfields, nothing appears tho" />
-    <option name="LAST_COMMIT_MESSAGE" value="has code for button, textfields, nothing appears tho" />
+    <MESSAGE value="found the problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="found the problem" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -764,10 +764,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1604323671372">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1604347899509">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604323671372" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604347899509" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603875682119" />
     <state x="497" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604311988516">
       <screen x="0" y="0" width="1360" height="728" />
