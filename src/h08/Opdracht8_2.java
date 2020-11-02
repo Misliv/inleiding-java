@@ -17,25 +17,25 @@ public class Opdracht8_2 extends Applet {
 
     public void init() {
         //mannen
-        label1 = new Label("Aantal mannen");
+        label1 = new Label("Aantal mannen:");
         mannen = new Button("");
         mannen.addActionListener(new Opdracht8_2.mannenListener());
         add(label1);
         add(mannen);
         //vrouwen
-        label2 = new Label("Aantal vrouwen");
+        label2 = new Label("Aantal vrouwen:");
         vrouwen = new Button("");
         vrouwen.addActionListener(new Opdracht8_2.vrouwenListener());
         add(label2);
         add(vrouwen);
         //potentiële mannen
-        label3 = new Label("Aantal potentiële mannen");
+        label3 = new Label("Aantal potentiële mannen:");
         potentielemannen = new Button("");
         potentielemannen.addActionListener(new Opdracht8_2.potentielemannenListener());
         add(label3);
         add(potentielemannen);
         //potentiële vrouwen
-        label4 = new Label("Aantal potentiële vrouwen");
+        label4 = new Label("Aantal potentiële vrouwen:");
         potentielevrouwen = new Button("");
         potentielevrouwen.addActionListener(new Opdracht8_2.potentielevrouwenListener());
         add(label4);
