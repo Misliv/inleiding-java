@@ -24,7 +24,7 @@ public class Opdracht8_3 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString("" + prijs / 100 * 121, 40,40);
+        g.drawString("prijs + btw: " + prijs / 100 * 121, 40,40);
 
     }
 
