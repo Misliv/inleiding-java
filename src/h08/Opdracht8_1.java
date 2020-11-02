@@ -1,6 +1,5 @@
 package h08;
 
-import javax.xml.soap.Text;
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
