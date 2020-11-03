@@ -24,7 +24,6 @@ public class Opdracht5_2 extends Applet {
         //Valerie 40 kg
         g.drawString("Valerie", 105, 290);
         g.setColor(Color.red);
-        //i dont think if statements are right but it works and cant think of anything else rn ¯\_(ツ)_/¯
         int Valerie = 40;
         if (Valerie == 20) {
             g.fillRect(100, 235, 51, 40);
