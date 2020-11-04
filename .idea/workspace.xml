@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="vragen gemaakt">
-      <change afterPath="$PROJECT_DIR$/src/h10/Opdracht10_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Opdracht10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Opdracht10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Opdracht10_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Opdracht10_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/PraktijkOpdrachtH10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h05/Opdracht5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/Opdracht5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h10/Opdracht10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h10/Opdracht10_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +67,42 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Applet.PraktijkOpdrachtH8">
+  <component name="RunManager" selected="Applet.PraktijkOpdrachtH10">
+    <configuration name="Opdracht10_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_4" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_4" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_5" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_5" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Opdracht2_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_1" />
       <module name="inleiding-java" />
@@ -193,6 +222,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PraktijkOpdrachtH10" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.PraktijkOpdrachtH10" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PraktijkOpdrachtH4" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h04.PraktijkOpdrachtH4" />
       <module name="inleiding-java" />
@@ -220,17 +256,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Applet.Opdracht2_1" />
       <item itemvalue="Applet.Opdracht2_2" />
@@ -252,6 +277,12 @@
       <item itemvalue="Applet.PraktijkOpdrachtH4" />
       <item itemvalue="Applet.PraktijkOpdrachtH6" />
       <item itemvalue="Applet.PraktijkOpdrachtH8" />
+      <item itemvalue="Applet.Opdracht10_1" />
+      <item itemvalue="Applet.Opdracht10_2" />
+      <item itemvalue="Applet.Opdracht10_3" />
+      <item itemvalue="Applet.Opdracht10_4" />
+      <item itemvalue="Applet.Opdracht10_5" />
+      <item itemvalue="Applet.PraktijkOpdrachtH10" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -307,6 +338,8 @@
       <workItem from="1604323900049" duration="4646000" />
       <workItem from="1604344205094" duration="4575000" />
       <workItem from="1604394906799" duration="1608000" />
+      <workItem from="1604474900171" duration="483000" />
+      <workItem from="1604476167936" duration="2614000" />
     </task>
     <task id="LOCAL-00028" summary="added 5 ovals to 'zijde 5'">
       <created>1601396958738</created>
@@ -702,21 +735,21 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1601926109344" />
-    <state x="144" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603858643055">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="145" y="0" width="1092" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604477793267">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="144" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1603858643055" />
-    <state x="145" y="0" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266599120" />
+    <state x="145" y="0" width="1092" height="768" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1604477793267" />
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603858465133">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="438" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1603858465133" />
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1603263926957" />
-    <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603858639950">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="421" y="164" width="541" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604477791846">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="419" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1603858639950" />
-    <state x="421" y="161" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1603266597757" />
+    <state x="421" y="164" width="541" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1604477791846" />
     <state x="360" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600219855878">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
