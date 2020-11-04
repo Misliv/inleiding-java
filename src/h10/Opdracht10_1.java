@@ -8,6 +8,7 @@ import java.awt.event.ActionListener;
 public class Opdracht10_1 extends Applet{
     TextField nummerveld;
     String nummer;
+    Button confirm;
     double hoogstegetal;
     double getal;
 
@@ -15,20 +16,30 @@ public class Opdracht10_1 extends Applet{
         nummerveld = new TextField("");
         nummerveld.addActionListener( new FieldListener());
         nummer = "";
+        add(nummerveld);
+        confirm = new Button("  ");
+        confirm.addActionListener( new ConfirmListener());
     }
 
     public void paint(Graphics g) {
     }
+
     class FieldListener implements ActionListener{
         public void actionPerformed(ActionEvent e) {
             String s;
 
             s = nummerveld.getText();
-            getal = Integer.parseInt(s);
+            getal = Double.parseDouble(s);
+            hoogstegetal = Double.parseDouble();
             if (hoogstegetal > getal) {
-                nummer = hoogstegetal;
+                getal = hoogstegetal;
                 repaint();
             }
+
+        }
+    }
+    class ConfirmListener implements ActionListener{
+        public void actionPerformed(ActionEvent e) {
 
         }
     }
