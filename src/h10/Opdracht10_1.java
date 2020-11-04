@@ -10,10 +10,11 @@ public class Opdracht10_1 extends Applet{
     String nummer;
     Button confirm;
     double hoogstegetal;
-    double getal;
+    double getal1;
+    double getal2;
 
     public void init() {
-        nummerveld = new TextField("");
+        nummerveld = new TextField("",5);
         nummerveld.addActionListener( new FieldListener());
         nummer = "";
         add(nummerveld);
@@ -29,10 +30,10 @@ public class Opdracht10_1 extends Applet{
             String s;
 
             s = nummerveld.getText();
-            getal = Double.parseDouble(s);
-            hoogstegetal = Double.parseDouble();
-            if (hoogstegetal > getal) {
-                getal = hoogstegetal;
+            getal1 = Double.parseDouble(s);
+            if (hoogstegetal > getal1) {
+                hoogstegetal = getal1;
+
                 repaint();
             }
 

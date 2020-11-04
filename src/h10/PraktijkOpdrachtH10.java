@@ -1,4 +1,6 @@
 package h10;
 
-public class PraktijkOpdrachtH10 {
+import java.applet.Applet;
+
+public class PraktijkOpdrachtH10 extends Applet {
 }

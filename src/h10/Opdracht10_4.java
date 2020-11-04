@@ -1,4 +1,6 @@
 package h10;
 
-public class Opdracht10_4 {
+import java.applet.Applet;
+
+public class Opdracht10_4 extends Applet {
 }
