@@ -6,28 +6,34 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Opdracht10_4 extends Applet {
-    TextField tekstvak;
+    TextField tekstvakmaand;
+    TextField tekstvakjaar;
     Label label;
     String s, text;
     int maand;
+    int jaar;
+    int jaartal;
+
 
     public void init() {
-        tekstvak = new TextField("",10);
+        tekstvakmaand = new TextField("", 10);
         label = new Label("Give a number from 1-12 it and press enter");
-        tekstvak.addActionListener( new Opdracht10_3.TekstvakListener());
+        tekstvakmaand.addActionListener(new Opdracht10_4.TekstvakListener());
         text = "";
         add(label);
-        add(tekstvak);
+        add(tekstvakmaand);
+        jaartal = (jaar / 4);
 
     }
 
     public void paint(Graphics g) {
-        g.drawString(text,50,50);
+        g.drawString(text, 50, 50);
 
     }
+
     class TekstvakListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            s = tekstvak.getText();
+            s = tekstvakmaand.getText();
             maand = Integer.parseInt(s);
             switch (maand) {
                 case 1:
@@ -69,9 +75,9 @@ public class Opdracht10_4 extends Applet {
                 default:
                     text = "Give a number from 1-12";
                     break;
+
             }
             repaint();
         }
     }
-}
 }
