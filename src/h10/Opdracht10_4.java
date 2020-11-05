@@ -19,6 +19,9 @@ public class Opdracht10_4 extends Applet {
         tekstvakmaand = new TextField("", 10);
         label = new Label("Give a number from 1-12 it and press enter");
         tekstvakmaand.addActionListener(new Opdracht10_4.TekstvakListener());
+        tekstvakjaar = new TextField("", 10);
+        label = new Label("Name a year");
+        tekstvakjaar.addActionListener(new TekstvakjaarListener());
         text = "";
         add(label);
         add(tekstvakmaand);
@@ -78,6 +81,10 @@ public class Opdracht10_4 extends Applet {
 
             }
             repaint();
+        }
+        class TekstvakjaarListener implements ActionListener {
+            public void actionPerformed(ActionEvent e) {
+            }
         }
     }
 }
