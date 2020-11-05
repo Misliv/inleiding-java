@@ -34,7 +34,7 @@ public class Opdracht10_3 extends Applet {
                     text = "Januari, 31";
                     break;
                 case 2:
-                    text = "Februari, 28 of 29";
+                    text = "Februari, 28";
                     break;
                 case 3:
                     text = "Maart, 31";
