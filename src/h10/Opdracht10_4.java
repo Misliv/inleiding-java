@@ -8,83 +8,85 @@ import java.awt.event.ActionListener;
 public class Opdracht10_4 extends Applet {
     TextField tekstvakmaand;
     TextField tekstvakjaar;
-    Label label;
-    String s, text;
+    Label labelmaand;
+    Label labeljaar;
+    String stringmaand;
+    String stringjaar;
     int maand;
     int jaar;
-    int jaartal;
 
 
     public void init() {
-        tekstvakmaand = new TextField("", 10);
-        label = new Label("Give a number from 1-12 it and press enter");
+        tekstvakmaand = new TextField("", 5);
+        labelmaand = new Label("Give a number from 1-12");
         tekstvakmaand.addActionListener(new Opdracht10_4.TekstvakListener());
-        tekstvakjaar = new TextField("", 10);
-        label = new Label("Name a year");
-        tekstvakjaar.addActionListener(new TekstvakjaarListener());
-        text = "";
-        add(label);
+        tekstvakjaar = new TextField("", 5);
+        labeljaar = new Label("Name a year");
+        tekstvakjaar.addActionListener(new TekstvakListener());
+        add(labelmaand);
         add(tekstvakmaand);
-        jaartal = (jaar / 4);
+        add(labeljaar);
+        add(tekstvakjaar);
 
     }
 
     public void paint(Graphics g) {
-        g.drawString(text, 50, 50);
+        g.drawString(stringmaand, 50, 50);
 
     }
 
     class TekstvakListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            s = tekstvakmaand.getText();
-            maand = Integer.parseInt(s);
+            stringmaand = tekstvakmaand.getText();
+            maand = Integer.parseInt(stringmaand);
+            stringjaar = tekstvakjaar.getText();
+            jaar = Integer.parseInt(stringjaar);
             switch (maand) {
                 case 1:
-                    text = "Januari, 31";
+                    stringmaand = "Januari, 31";
                     break;
                 case 2:
-                    text = "Februari, 28";
+                    if ( (jaar % 4 == 0 && !(jaar % 100 == 0)) ||
+                            jaar % 400 == 0 )
+                        stringmaand = "Februari, 29";
+                        else stringmaand = "Februari, 28";
                     break;
                 case 3:
-                    text = "Maart, 31";
+                    stringmaand = "Maart, 31";
                     break;
                 case 4:
-                    text = "April, 30";
+                    stringmaand = "April, 30";
                     break;
                 case 5:
-                    text = "Mei, 31";
+                    stringmaand = "Mei, 31";
                     break;
                 case 6:
-                    text = "Juni, 30";
+                    stringmaand = "Juni, 30";
                     break;
                 case 7:
-                    text = "Juli, 31";
+                    stringmaand = "Juli, 31";
                     break;
                 case 8:
-                    text = "Augustus, 31";
+                    stringmaand = "Augustus, 31";
                     break;
                 case 9:
-                    text = "September, 30";
+                    stringmaand = "September, 30";
                     break;
                 case 10:
-                    text = "Oktober, 31";
+                    stringmaand = "Oktober, 31";
                     break;
                 case 11:
-                    text = "November, 30";
+                    stringmaand = "November, 30";
                     break;
                 case 12:
-                    text = "December, 31";
+                    stringmaand = "December, 31";
                     break;
                 default:
-                    text = "Give a number from 1-12";
+                    stringmaand = "Give a number from 1-12";
                     break;
 
             }
             repaint();
-        }
-        class TekstvakjaarListener implements ActionListener {
-            public void actionPerformed(ActionEvent e) {
-            }
         }
     }
 }

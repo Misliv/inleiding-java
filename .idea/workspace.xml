@@ -67,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht10_3">
+  <component name="RunManager" selected="Applet.Opdracht10_4">
     <configuration name="Opdracht10_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_1" />
       <module name="inleiding-java" />
@@ -350,6 +350,8 @@
       <workItem from="1604476167936" duration="6419000" />
       <workItem from="1604563128794" duration="3492000" />
       <workItem from="1604567051742" duration="2246000" />
+      <workItem from="1604861782463" duration="355000" />
+      <workItem from="1604919824170" duration="3225000" />
     </task>
     <task id="LOCAL-00034" summary="oops forgot the oval, added weird oval">
       <created>1601419613271</created>
@@ -780,25 +782,25 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1283" height="220" key="GridCell.Tab.0.bottom" timestamp="1604566833952">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="657" height="2" key="GridCell.Tab.0.bottom" timestamp="1604923283723">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="2" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604352633813" />
+    <state width="657" height="2" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
     <state width="1283" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604566833952" />
-    <state width="1283" height="220" key="GridCell.Tab.0.center" timestamp="1604566833951">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="657" height="2" key="GridCell.Tab.0.center" timestamp="1604923283723">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="2" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604352633813" />
+    <state width="657" height="2" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
     <state width="1283" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604566833951" />
-    <state width="1283" height="220" key="GridCell.Tab.0.left" timestamp="1604566833951">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="657" height="2" key="GridCell.Tab.0.left" timestamp="1604923283722">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="2" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604352633813" />
+    <state width="657" height="2" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604923283722" />
     <state width="1283" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604566833951" />
-    <state width="1283" height="220" key="GridCell.Tab.0.right" timestamp="1604566833951">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="657" height="2" key="GridCell.Tab.0.right" timestamp="1604923283723">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="657" height="2" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604352633813" />
+    <state width="657" height="2" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
     <state width="1283" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604566833951" />
     <state width="1283" height="220" key="GridCell.Tab.1.bottom" timestamp="1604566833952">
       <screen x="0" y="0" width="1366" height="768" />
