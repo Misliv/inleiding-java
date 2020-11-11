@@ -67,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht10_4">
+  <component name="RunManager" selected="Applet.Opdracht10_5">
     <configuration name="Opdracht10_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_1" />
       <module name="inleiding-java" />
@@ -352,13 +352,6 @@
       <workItem from="1604567051742" duration="2246000" />
       <workItem from="1604861782463" duration="355000" />
       <workItem from="1604919824170" duration="3225000" />
-    </task>
-    <task id="LOCAL-00034" summary="oops forgot the oval, added weird oval">
-      <created>1601419613271</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1601419613271</updated>
     </task>
     <task id="LOCAL-00035" summary="'Gevulde ovaal' made">
       <created>1601420266255</created>
@@ -696,7 +689,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604569055442</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="has if statement, textfield, label, not working button">
+      <created>1605083362340</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1605083362341</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -715,7 +715,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added s = &quot;&quot;!" />
     <MESSAGE value="made a textfield and a button that says &quot;ok&quot; and a button that says &quot;reset&quot;" />
     <MESSAGE value="the ok button now shows the message below the textfield and the resetbutton removes everything" />
     <MESSAGE value="added label, textfield and ok button" />
@@ -740,7 +739,8 @@
     <MESSAGE value="added correct number of days in a month, the text appears now, everything works as it should" />
     <MESSAGE value="removed 29 from february" />
     <MESSAGE value="added jaartal" />
-    <option name="LAST_COMMIT_MESSAGE" value="added jaartal" />
+    <MESSAGE value="has if statement, textfield, label, not working button" />
+    <option name="LAST_COMMIT_MESSAGE" value="has if statement, textfield, label, not working button" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -770,10 +770,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="463" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1603463133232" />
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1604569051422">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1605083358572">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604569051422" />
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1605083358572" />
     <state x="136" y="61" key="DiffContextDialog" timestamp="1603807340035">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -782,26 +782,26 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="657" height="2" key="GridCell.Tab.0.bottom" timestamp="1604923283723">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1605087889739">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1283" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604566833952" />
-    <state width="657" height="2" key="GridCell.Tab.0.center" timestamp="1604923283723">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1605087889739" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1605087889739">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1283" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604566833951" />
-    <state width="657" height="2" key="GridCell.Tab.0.left" timestamp="1604923283722">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1605087889739" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1605087889739">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604923283722" />
-    <state width="1283" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604566833951" />
-    <state width="657" height="2" key="GridCell.Tab.0.right" timestamp="1604923283723">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1605087889739" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1605087889739">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1283" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604566833951" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605087889739" />
     <state width="1283" height="220" key="GridCell.Tab.1.bottom" timestamp="1604566833952">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -831,11 +831,11 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1604569059030">
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1605083365321">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604352534333" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604569059030" />
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605083365321" />
     <state x="497" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604311988516">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
