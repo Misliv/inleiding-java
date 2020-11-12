@@ -8,12 +8,15 @@ public class Opdracht11_4 extends Applet {
     }
 
     public void paint(Graphics g) {
-        int teller = 3;
-        int y = 0;
+        int teller = 0;
+        int getal1 = 3;
+        int nummer;
+        int y = 20;
 
-        while(teller <=30) {
+        while(teller <= 10) {
             y += 20;
-            g.drawString("" + teller, 50, y);
+            nummer = getal1 * teller;
+            g.drawString("" + nummer, 50, y);
             teller++;
         }
     }
