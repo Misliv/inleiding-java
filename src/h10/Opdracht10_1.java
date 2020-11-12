@@ -8,21 +8,21 @@ import java.awt.event.ActionListener;
 public class Opdracht10_1 extends Applet{
     TextField nummerveld;
     String nummer;
-    Button confirm;
+    Label label;
     double hoogstegetal;
     double getal1;
     double getal2;
 
     public void init() {
-        nummerveld = new TextField("",5);
-        nummerveld.addActionListener( new FieldListener());
+        nummerveld = new TextField("", 5);
+        nummerveld.addActionListener(new FieldListener());
         nummer = "";
         add(nummerveld);
-        confirm = new Button("  ");
-        confirm.addActionListener( new ConfirmListener());
+        label = new Label("Give a number");
+        add(label);
     }
-
-    public void paint(Graphics g) {
+    public void paint(Graphics g){
+        g.drawString("Highest number: " + getal2, 50,50);
     }
 
     class FieldListener implements ActionListener{
@@ -31,16 +31,11 @@ public class Opdracht10_1 extends Applet{
 
             s = nummerveld.getText();
             getal1 = Double.parseDouble(s);
-            if (hoogstegetal > getal1) {
+            if (getal1 > hoogstegetal) {
                 hoogstegetal = getal1;
-
+                getal2 = hoogstegetal;
                 repaint();
             }
-
-        }
-    }
-    class ConfirmListener implements ActionListener{
-        public void actionPerformed(ActionEvent e) {
 
         }
     }
