@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class Opdracht11_9 extends Applet {
     static int N = 8;
-    
+
     public void paint(Graphics g)
     {
         int x;
