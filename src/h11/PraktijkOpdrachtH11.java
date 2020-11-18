@@ -1,6 +1,5 @@
 package h11;
 
-import h10.PraktijkOpdrachtH10;
 import h11.PraktijkOpdrachtH11;
 
 import java.applet.Applet;
@@ -11,10 +10,9 @@ import java.awt.event.ActionListener;
 public class PraktijkOpdrachtH11 extends Applet {
     TextField tekstvak;
     Label label;
-    String tekst;
-    String s;
     Button Okknop;
     double gegevengetal;
+    int getal2 = 1;
 
     public void init() {
         tekstvak = new TextField("", 5);
@@ -30,18 +28,24 @@ public class PraktijkOpdrachtH11 extends Applet {
     public void paint(Graphics g) {
         int teller = 0;
         int getal1 = 10;
+
         int nummer;
         int y = 20;
 
-        while(teller <= 100) {
+        while(teller <= 10) {
             y += 20;
-            nummer = teller;
+            nummer = teller * getal2;
+            g.drawString("" + nummer,50,y);
             teller++;
         }
             }
             class GetalListener implements ActionListener {
                 public void actionPerformed(ActionEvent e) {
-                    s = tekstvak.getText();
+                    if (getal2 == 10) {
+                        getal2 = 0;
+                    }
+                    getal2++;
+                    repaint();
         }
     }
 }
