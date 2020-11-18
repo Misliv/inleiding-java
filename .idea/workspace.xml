@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h11/PraktijkOpdrachtH11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/PraktijkOpdrachtH11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h11/Vragen H11" beforeDir="false" afterPath="$PROJECT_DIR$/src/h11/Vragen H11" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -432,28 +431,7 @@
       <workItem from="1604567051742" duration="2246000" />
       <workItem from="1604861782463" duration="355000" />
       <workItem from="1604919824170" duration="3225000" />
-      <workItem from="1605686305901" duration="7191000" />
-    </task>
-    <task id="LOCAL-00045" summary="i added a button">
-      <created>1603265855710</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1603265855751</updated>
-    </task>
-    <task id="LOCAL-00046" summary="the button does something now">
-      <created>1603266018902</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1603266018902</updated>
-    </task>
-    <task id="LOCAL-00047" summary="added variables and strings">
-      <created>1603463973995</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1603463973995</updated>
+      <workItem from="1605686305901" duration="7509000" />
     </task>
     <task id="LOCAL-00048" summary="added colons and spaces">
       <created>1603464223972</created>
@@ -777,7 +755,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605690041641</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="geeft de tafel als je nummer in doet">
+      <created>1605693797865</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1605693797865</updated>
+    </task>
+    <task id="LOCAL-00095" summary="geeft de tafel als je nummer in doet">
+      <created>1605693840033</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1605693840033</updated>
+    </task>
+    <task id="LOCAL-00096" summary="geeft de tafel als je nummer in doet">
+      <created>1605693883064</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1605693883064</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -796,7 +795,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="removed another s" />
     <MESSAGE value="made 4 buttons" />
     <MESSAGE value="added 4 labels" />
     <MESSAGE value="added 4 :" />
@@ -821,7 +819,8 @@
     <MESSAGE value="chessboard is 8x8 now" />
     <MESSAGE value="tekstvak, okknop, teller" />
     <MESSAGE value="geeft tafels van 1 tot 10 weer" />
-    <option name="LAST_COMMIT_MESSAGE" value="geeft tafels van 1 tot 10 weer" />
+    <MESSAGE value="geeft de tafel als je nummer in doet" />
+    <option name="LAST_COMMIT_MESSAGE" value="geeft de tafel als je nummer in doet" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -851,10 +850,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="463" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1603463133232" />
-    <state x="341" y="0" key="CommitChangelistDialog2" timestamp="1605690038939">
+    <state x="341" y="0" key="CommitChangelistDialog2" timestamp="1605693881957">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1605690038939" />
+    <state x="341" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1605693881957" />
     <state x="136" y="61" key="DiffContextDialog" timestamp="1603807340035">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -863,26 +862,26 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1605693579370">
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1605693869260">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1605693579370" />
-    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1605693579370">
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1605693869260" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1605693869260">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1605693579370" />
-    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1605693579369">
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1605693869260" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1605693869259">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604923283722" />
-    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1605693579369" />
-    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1605693579370">
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1605693869259" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1605693869260">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605693579370" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605693869260" />
     <state width="1283" height="220" key="GridCell.Tab.1.bottom" timestamp="1604566833952">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -912,11 +911,11 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1605690043970">
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1605693883975">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604352534333" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605690043970" />
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605693883975" />
     <state x="497" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604311988516">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
