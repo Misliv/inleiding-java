@@ -1,7 +1,5 @@
 package h11;
 
-import h11.PraktijkOpdrachtH11;
-
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -13,7 +11,6 @@ public class PraktijkOpdrachtH11 extends Applet {
     Button Okknop;
     String s;
     double gegevengetal;
-    int getal2 = 1;
 
     public void init() {
         tekstvak = new TextField("", 5);
@@ -37,7 +34,6 @@ public class PraktijkOpdrachtH11 extends Applet {
             }
             class GetalListener implements ActionListener {
                 public void actionPerformed(ActionEvent e) {
-
                     s = tekstvak.getText();
                     gegevengetal =  Double.parseDouble( s );
                     repaint();
