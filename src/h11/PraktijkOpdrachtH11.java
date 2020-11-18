@@ -11,6 +11,7 @@ public class PraktijkOpdrachtH11 extends Applet {
     TextField tekstvak;
     Label label;
     Button Okknop;
+    String s;
     double gegevengetal;
     int getal2 = 1;
 
@@ -22,29 +23,24 @@ public class PraktijkOpdrachtH11 extends Applet {
         add(label);
         add(tekstvak);
         add(Okknop);
-
     }
 
     public void paint(Graphics g) {
         int teller = 0;
-        int getal1 = 10;
-
-        int nummer;
         int y = 20;
 
         while(teller <= 10) {
             y += 20;
-            nummer = teller * getal2;
-            g.drawString("" + nummer,50,y);
+            g.drawString("" + teller * gegevengetal,50,y);
             teller++;
         }
             }
             class GetalListener implements ActionListener {
                 public void actionPerformed(ActionEvent e) {
-                    if (getal2 == 10) {
-                        getal2 = 0;
-                    }
-                    getal2++;
+
+                    s = tekstvak.getText();
+                    gegevengetal =  Double.parseDouble( s );
+                    gegevengetal = gegevengetal * getal2;
                     repaint();
         }
     }
