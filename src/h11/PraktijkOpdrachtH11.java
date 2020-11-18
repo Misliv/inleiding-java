@@ -40,7 +40,6 @@ public class PraktijkOpdrachtH11 extends Applet {
 
                     s = tekstvak.getText();
                     gegevengetal =  Double.parseDouble( s );
-                    gegevengetal = gegevengetal * getal2;
                     repaint();
         }
     }
