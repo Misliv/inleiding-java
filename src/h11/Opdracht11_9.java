@@ -5,11 +5,11 @@ import java.awt.*;
 
 public class Opdracht11_9 extends Applet {
     static int N = 8;
-
-    // Use paint() method
+    
     public void paint(Graphics g)
     {
-        int x, y;
+        int x;
+        int y;
         for (int rij = 0; rij < N; rij++) {
 
             for (int kolom = 0; kolom < N; kolom++) {
