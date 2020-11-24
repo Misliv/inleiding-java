@@ -16,5 +16,5 @@ public class Opdracht12_2 extends Applet {
 
         public void paint (Graphics g){
 
-            }
-        }
+    }
+}
