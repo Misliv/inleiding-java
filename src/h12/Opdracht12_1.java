@@ -4,7 +4,6 @@ import java.awt.*;
 import java.applet.*;
 
 public class Opdracht12_1 extends Applet {
-   //private int[] getal;
     int gemiddelde;
     int[] getal = {72, 80, 27, 76, 43, 64, 42, 25, 51, 73};
 

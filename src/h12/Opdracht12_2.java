@@ -8,12 +8,13 @@ public class Opdracht12_2 extends Applet {
 
     public void init() {
         knop = new Button[25];
-        for (int teller = 0; teller < knop.length; teller++);
-    }
-
-    public void paint(Graphics g) {
         for (int teller = 0; teller < knop.length; teller++) {
-            g.drawString("" + knop, 50, 20 * teller + 20);
+            knop[teller] = new Button();
+            add(knop[teller]);
         }
     }
-}
+
+        public void paint (Graphics g){
+
+            }
+        }
