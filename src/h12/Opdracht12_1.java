@@ -4,18 +4,19 @@ import java.awt.*;
 import java.applet.*;
 
 public class Opdracht12_1 extends Applet {
-    int[] getal = {72, 80, 27, 76, 43, 64, 42, 25, 51, 73};
+   //private int[] getal;
     int gemiddelde;
+    int[] getal = {72, 80, 27, 76, 43, 64, 42, 25, 51, 73};
 
     public void init() {
-        getal = new int[10];
-
-        for (int teller = 0; teller < getal.length; teller++);
-        gemiddelde = 553 / 10;
-
     }
 
     public void paint(Graphics g) {
+        int totaal = 0;
+        for (int teller = 0; teller < getal.length; teller ++) {
+            totaal += getal[teller];
+        }
+            gemiddelde = totaal / getal.length;
 
         for (int teller = 0; teller < getal.length; teller ++) {
             g.drawString("" + getal[teller], 50, 20 * teller + 20);
