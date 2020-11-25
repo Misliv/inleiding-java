@@ -13,23 +13,22 @@ public class Opdracht12_3 extends Applet {
     public void init() {
         okknop = new Button("Ok");
         okknop.addActionListener(new OkknopListener());
+        add(okknop);
         tekstvak = new TextField[5];
         for (int teller = 0; teller < tekstvak.length; teller++) {
-            tekstvak[teller] = new TextField();
+            tekstvak[teller] = new TextField(" ");
             add(tekstvak[teller]);
-
         }
-        Arrays.sort(tekstvak);
+       // Arrays.sort(tekstvak);
     }
-
         public void paint (Graphics g){
-
-        }
-        class OkknopListener implements ActionListener {
-            public void actionPerformed(ActionEvent e) {
-
-                TextField.setText("");
-            }
         }
     }
+      class OkknopListener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
+          // TextField[].setText("");
+          //  repaint();
+        }
+}
+
 
