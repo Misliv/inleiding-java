@@ -10,7 +10,6 @@ public class Opdracht8_1 extends Applet {
     Button Resetknop;
     TextField Textfield;
     Label label;
-    String schermtekst;
     String s;
 
     public void init() {
