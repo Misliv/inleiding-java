@@ -22,7 +22,6 @@
     <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h12/Opdracht12_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/Opdracht12_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/Opdracht12_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/Opdracht12_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -531,14 +530,7 @@
       <workItem from="1604919824170" duration="3225000" />
       <workItem from="1605686305901" duration="15416000" />
       <workItem from="1605777768492" duration="11702000" />
-      <workItem from="1606292460189" duration="11363000" />
-    </task>
-    <task id="LOCAL-00054" summary="vragen gemaakt">
-      <created>1603856560486</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1603856560531</updated>
+      <workItem from="1606292460189" duration="14242000" />
     </task>
     <task id="LOCAL-00055" summary="added String s and s = Textfield.getText();">
       <created>1603861748926</created>
@@ -876,7 +868,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606293344271</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="removed a variable">
+      <created>1606306217125</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1606306217125</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -950,10 +949,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="463" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1603463133232" />
-    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1606293341522">
+    <state x="617" y="0" key="CommitChangelistDialog2" timestamp="1606306215337">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1606293341522" />
+    <state x="617" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1606306215337" />
     <state x="136" y="61" key="DiffContextDialog" timestamp="1603807340035">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -962,26 +961,26 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1323" height="159" key="GridCell.Tab.0.bottom" timestamp="1606301126889">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1606310054686">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1323" height="159" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606301126889" />
-    <state width="1323" height="159" key="GridCell.Tab.0.center" timestamp="1606301126889">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606310054686" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1606310054685">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1323" height="159" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606301126889" />
-    <state width="1323" height="159" key="GridCell.Tab.0.left" timestamp="1606301126888">
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606310054685" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1606310054685">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1604923283722" />
-    <state width="1323" height="159" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606301126888" />
-    <state width="1323" height="159" key="GridCell.Tab.0.right" timestamp="1606301126889">
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606310054685" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1606310054685">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="657" height="2" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1604923283723" />
-    <state width="1323" height="159" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606301126889" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606310054685" />
     <state width="1283" height="220" key="GridCell.Tab.1.bottom" timestamp="1604566833952">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -1011,11 +1010,11 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1606293345582">
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2" timestamp="1606306218586">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1604352534333" />
-    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1606293345582" />
+    <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1606306218586" />
     <state x="497" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604311988516">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -1025,6 +1024,10 @@
     </state>
     <state x="520" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.728@0.0.1360.728" timestamp="1600376869489" />
     <state x="522" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1605081232669" />
+    <state x="217" y="120" width="931" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606309846613">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="217" y="120" width="931" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1606309846613" />
     <state x="511" y="0" width="585" height="728" key="find.popup" timestamp="1600376188198">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -1038,5 +1041,15 @@
     </state>
     <state x="344" y="84" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1603805563016" />
     <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1603247407071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
