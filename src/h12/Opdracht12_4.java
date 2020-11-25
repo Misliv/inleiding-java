@@ -24,7 +24,7 @@ public class Opdracht12_4 extends Applet {
             }
             class OkknopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            tekstvak.getText("");
+            tekstvak.setText("");
             repaint();
             for (int teller = 0; teller < getal.length; teller++);
         }
