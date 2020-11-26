@@ -7,11 +7,11 @@ import java.awt.event.ActionListener;
 
 public class Opdracht12_4 extends Applet {
     double[] getal = {14.0, 16.0, 2.0, 7.0, 3.0, 21.0};
+    double gezocht;
+    int index;
     Boolean gevonden;
     TextField tekstvak;
     Button okknop;
-    double gezocht;
-    int index;
 
     public void init() {
         okknop = new Button("Ok");
@@ -21,7 +21,7 @@ public class Opdracht12_4 extends Applet {
         add(tekstvak);
         {
             for (int teller = 0; teller < getal.length; teller++) {
-                gezocht = 14;
+                gezocht = getal[teller];
                 gevonden = false;
                 index = teller;
             }
