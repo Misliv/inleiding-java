@@ -11,6 +11,7 @@ public class Opdracht12_4 extends Applet {
     TextField tekstvak;
     Button okknop;
     double gezocht;
+    int index;
 
     public void init() {
         okknop = new Button("Ok");
@@ -20,8 +21,9 @@ public class Opdracht12_4 extends Applet {
         add(tekstvak);
         {
             for (int teller = 0; teller < getal.length; teller++) {
-                gezocht = getal.length;
+                gezocht = 14;
                 gevonden = false;
+                index = teller;
             }
         }
         int teller = 0;
@@ -39,7 +41,7 @@ public class Opdracht12_4 extends Applet {
     class OkknopListener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
             if (gevonden == true) {
-                tekstvak.setText("De waarde is gevonden, index = " + getal.length);
+                tekstvak.setText("De waarde is gevonden, index = " + index);
                 repaint();
             }
 
