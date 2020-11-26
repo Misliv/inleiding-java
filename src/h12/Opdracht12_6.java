@@ -14,7 +14,7 @@ public class Opdracht12_6 extends Applet {
 
     public void init() {
         okknop = new Button("Ok");
-        okknop.addActionListener(new Opdracht12_4.OkknopListener());
+        okknop.addActionListener(new OkknopListener());
         tekstvak = new TextField("", 20);
         add(okknop);
         add(tekstvak);
