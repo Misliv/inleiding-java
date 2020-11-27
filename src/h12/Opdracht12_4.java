@@ -11,8 +11,8 @@ public class Opdracht12_4 extends Applet implements ActionListener
     double gezocht;
     int index;
     Boolean gevonden = false;
-    TextField tekstvak;
     Button okknop;
+    TextField tekstvak;
     TextField tekst;
 
     public void init()
