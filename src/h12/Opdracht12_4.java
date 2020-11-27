@@ -5,50 +5,50 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Opdracht12_4 extends Applet {
+public class Opdracht12_4 extends Applet implements ActionListener
+{
     double[] getal = {14.0, 16.0, 2.0, 7.0, 3.0, 21.0};
     double gezocht;
     int index;
-    Boolean gevonden;
+    Boolean gevonden = false;
     TextField tekstvak;
     Button okknop;
+    TextField tekst;
 
-    public void init() {
+    public void init()
+    {
         okknop = new Button("Ok");
-        okknop.addActionListener(new OkknopListener());
+        okknop.addActionListener(this);
         tekstvak = new TextField("", 20);
+        tekst = new TextField("", 30);
         add(okknop);
         add(tekstvak);
-        {
-            for (int teller = 0; teller < getal.length; teller++) {
-                gezocht = getal[teller];
-                gevonden = false;
-                index = teller;
-            }
-        }
-        int teller = 0;
-        while (teller < getal.length) {
-            if (getal[teller] == gezocht) {
-                gevonden = true;
-            }
-            teller++;
-        }
+        add(tekst);
+
     }
+
     public void paint(Graphics g) {
 
     }
+    public void actionPerformed(ActionEvent e) {
+        if (e.getSource() == okknop)
 
-    class OkknopListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
-            if (gevonden == true) {
-                tekstvak.setText("De waarde is gevonden, index = " + index);
-                repaint();
-            }
+            {
+                gezocht = Double.parseDouble(tekstvak.getText());
+                int teller = 0;
+                while (teller < getal.length) {
+                    if (getal[teller] == gezocht) {
+                        gevonden = true;
+                        index = teller;
+                    }
+                    teller++;
+                }
+                if (gevonden == true)
+                tekst.setText("De waarde is gevonden, index = " + index);
 
-            else {
-                tekstvak.setText("De waarde is niet gevonden.");
+                else
+                    tekst.setText("De waarde is niet gevonden");
+                gevonden = false;
             }
-                repaint();
-        }
     }
 }
