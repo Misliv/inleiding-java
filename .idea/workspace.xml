@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="added break;">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="textfield and button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h12/Opdracht12_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/Opdracht12_6.java" afterDir="false" />
     </list>
@@ -470,14 +470,7 @@
       <workItem from="1606505952535" duration="5190000" />
       <workItem from="1606515884948" duration="3000" />
       <workItem from="1606516107383" duration="8000" />
-      <workItem from="1606763283439" duration="2286000" />
-    </task>
-    <task id="LOCAL-00049" summary="made an equation">
-      <created>1603751175989</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1603751175989</updated>
+      <workItem from="1606763283439" duration="7247000" />
     </task>
     <task id="LOCAL-00050" summary="renamed everything">
       <created>1603807315166</created>
@@ -815,7 +808,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606510751388</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="textfield and button">
+      <created>1606768603428</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1606768603428</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -834,7 +834,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="has code for button, textfields, nothing appears tho" />
     <MESSAGE value="found the problem" />
     <MESSAGE value="calculator made" />
     <MESSAGE value="vragen gemaakt" />
@@ -859,7 +858,8 @@
     <MESSAGE value="25 buttons displayed as an array" />
     <MESSAGE value="value found gives good text, index also foubd" />
     <MESSAGE value="added break;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added break;" />
+    <MESSAGE value="textfield and button" />
+    <option name="LAST_COMMIT_MESSAGE" value="textfield and button" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1601926109344">
@@ -901,25 +901,25 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="510" y="218" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1603464069241" />
-    <state width="1317" height="55" key="GridCell.Tab.0.bottom" timestamp="1606511204186">
+    <state width="1317" height="55" key="GridCell.Tab.0.bottom" timestamp="1606772879891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1606511204186" />
+    <state width="1317" height="55" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1606772879891" />
     <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1605098655090" />
-    <state width="1317" height="55" key="GridCell.Tab.0.center" timestamp="1606511204186">
+    <state width="1317" height="55" key="GridCell.Tab.0.center" timestamp="1606772879891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1606511204186" />
+    <state width="1317" height="55" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1606772879891" />
     <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1605098655088" />
-    <state width="1317" height="55" key="GridCell.Tab.0.left" timestamp="1606511204186">
+    <state width="1317" height="55" key="GridCell.Tab.0.left" timestamp="1606772879891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1606511204186" />
+    <state width="1317" height="55" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1606772879891" />
     <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1605098655088" />
-    <state width="1317" height="55" key="GridCell.Tab.0.right" timestamp="1606511204186">
+    <state width="1317" height="55" key="GridCell.Tab.0.right" timestamp="1606772879891">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="55" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1606511204186" />
+    <state width="1317" height="55" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1606772879891" />
     <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605098655089" />
     <state width="1283" height="220" key="GridCell.Tab.1.bottom" timestamp="1604566833952">
       <screen x="0" y="0" width="1366" height="768" />
@@ -950,10 +950,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="498" height="468" key="SwitcherDM/0.0.1360.728@0.0.1360.728" timestamp="1603805447706" />
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1606510753532">
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2" timestamp="1606768605685">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1606510753532" />
+    <state x="280" y="103" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1606768605685" />
     <state x="281" y="109" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605098247609" />
     <state x="497" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604311988516">
       <screen x="0" y="0" width="1360" height="728" />
