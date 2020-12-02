@@ -19,6 +19,4 @@ public class PraktijkOpdrachtH13 extends Applet {
         g.setColor(Color.GRAY);
         g.fillRect(x2, y2, width2, height2);
     }
-
-
 }

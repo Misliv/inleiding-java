@@ -44,6 +44,7 @@ public class Opdracht13_3 extends Applet implements ActionListener {
     }
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == knopbaksteen) {
+
         }
         if (e.getSource() == knopbetonblok) {
 

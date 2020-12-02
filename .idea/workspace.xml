@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/Opdracht13_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/Opdracht13_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Applet.PraktijkOpdrachtH13">
+  <component name="RunManager" selected="Applet.PraktijkOpdracht2H13">
     <configuration name="Opdracht10_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_1" />
       <module name="inleiding-java" />
@@ -534,13 +536,6 @@
       <workItem from="1606382722026" duration="142000" />
       <workItem from="1606383854077" duration="12222000" />
     </task>
-    <task id="LOCAL-00067" summary="added &quot;prijs + btw:&quot;">
-      <created>1604312419369</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1604312419369</updated>
-    </task>
     <task id="LOCAL-00068" summary="removed another s">
       <created>1604313769803</created>
       <option name="number" value="00068" />
@@ -877,7 +872,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606903472923</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="seperated tekenBlad and tekenStam">
+      <created>1606904715113</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1606904715113</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -896,7 +898,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="switch statements that say if the numbers from 1 to 10 are good or not" />
     <MESSAGE value="for statements made, vertical lines from 1 to 10 appear on applet" />
     <MESSAGE value="while statement, it counts down starting from 20 ending at 11 showing 10 numbers" />
     <MESSAGE value="on applet appears 5 squares diagonally" />
@@ -921,7 +922,8 @@
     <MESSAGE value="brick wall thats made from 2 for loops with an if statement that makes rows" />
     <MESSAGE value="method for tree drawing" />
     <MESSAGE value="copy pasted PraktijkOpdrachtH13 to PraktijkOpdracht2H13" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy pasted PraktijkOpdrachtH13 to PraktijkOpdracht2H13" />
+    <MESSAGE value="seperated tekenBlad and tekenStam" />
+    <option name="LAST_COMMIT_MESSAGE" value="seperated tekenBlad and tekenStam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
