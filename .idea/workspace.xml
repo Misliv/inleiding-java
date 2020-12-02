@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="applet shows value and gives the amount of times it shows up">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/PraktijkOpdrachtH12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/PraktijkOpdrachtH12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/Opdracht13_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/Opdracht13_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +65,107 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Applet.PraktijkOpdrachtH12">
+  <component name="RunManager" selected="Applet.Opdracht13_1">
+    <configuration name="Opdracht10_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_4" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_4" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht10_5" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_5" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_4" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_4" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_5" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_5" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_6" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_6" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_7" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_7" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_8" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_8" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht11_9" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.Opdracht11_9" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Opdracht12_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.Opdracht12_1" />
       <module name="inleiding-java" />
@@ -77,6 +175,13 @@
     </configuration>
     <configuration name="Opdracht12_2" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.Opdracht12_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht12_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h12.Opdracht12_3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,8 +208,204 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Opdracht13_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.Opdracht13_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht13_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.Opdracht13_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht13_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.Opdracht13_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht2_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht2_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h02.Opdracht2_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht4_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht4_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht4_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht4_4" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_4" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht4_5" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_5" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht4_6" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_6" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht4_7" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.Opdracht4_7" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht5_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.Opdracht5_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht5_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h05.Opdracht5_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht6_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Opdracht6_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht6_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Opdracht6_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht6_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.Opdracht6_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht8_1" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.Opdracht8_1" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht8_2" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.Opdracht8_2" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opdracht8_3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.Opdracht8_3" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdracht2H11" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.PraktijkOpdracht2H11" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdracht2H13" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.PraktijkOpdracht2H13" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdrachtH10" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h10.PraktijkOpdrachtH10" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdrachtH11" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.PraktijkOpdrachtH11" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PraktijkOpdrachtH12" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.PraktijkOpdrachtH12" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdrachtH13" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h13.PraktijkOpdrachtH13" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdrachtH4" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h04.PraktijkOpdrachtH4" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdrachtH6" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.PraktijkOpdrachtH6" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraktijkOpdrachtH8" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h08.PraktijkOpdrachtH8" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,12 +418,55 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Applet.Opdracht2_1" />
+      <item itemvalue="Applet.Opdracht2_2" />
+      <item itemvalue="Applet.Opdracht4_1" />
+      <item itemvalue="Applet.Opdracht4_2" />
+      <item itemvalue="Applet.Opdracht4_3" />
+      <item itemvalue="Applet.Opdracht4_4" />
+      <item itemvalue="Applet.Opdracht4_5" />
+      <item itemvalue="Applet.Opdracht4_6" />
+      <item itemvalue="Applet.Opdracht4_7" />
+      <item itemvalue="Applet.Opdracht5_1" />
+      <item itemvalue="Applet.Opdracht5_2" />
+      <item itemvalue="Applet.Opdracht6_1" />
+      <item itemvalue="Applet.Opdracht6_2" />
+      <item itemvalue="Applet.Opdracht6_3" />
+      <item itemvalue="Applet.Opdracht8_1" />
+      <item itemvalue="Applet.Opdracht8_2" />
+      <item itemvalue="Applet.Opdracht8_3" />
+      <item itemvalue="Applet.PraktijkOpdrachtH4" />
+      <item itemvalue="Applet.PraktijkOpdrachtH6" />
+      <item itemvalue="Applet.PraktijkOpdrachtH8" />
+      <item itemvalue="Applet.Opdracht10_1" />
+      <item itemvalue="Applet.Opdracht10_2" />
+      <item itemvalue="Applet.Opdracht10_3" />
+      <item itemvalue="Applet.Opdracht10_4" />
+      <item itemvalue="Applet.Opdracht10_5" />
+      <item itemvalue="Applet.PraktijkOpdrachtH10" />
+      <item itemvalue="Applet.Opdracht11_1" />
+      <item itemvalue="Applet.Opdracht11_2" />
+      <item itemvalue="Applet.Opdracht11_3" />
+      <item itemvalue="Applet.Opdracht11_4" />
+      <item itemvalue="Applet.Opdracht11_5" />
+      <item itemvalue="Applet.Opdracht11_6" />
+      <item itemvalue="Applet.Opdracht11_7" />
+      <item itemvalue="Applet.Opdracht11_8" />
+      <item itemvalue="Applet.Opdracht11_9" />
+      <item itemvalue="Applet.PraktijkOpdrachtH11" />
+      <item itemvalue="Applet.PraktijkOpdracht2H11" />
       <item itemvalue="Applet.Opdracht12_1" />
       <item itemvalue="Applet.Opdracht12_2" />
+      <item itemvalue="Applet.Opdracht12_3" />
       <item itemvalue="Applet.Opdracht12_4" />
       <item itemvalue="Applet.Opdracht12_5" />
       <item itemvalue="Applet.Opdracht12_6" />
       <item itemvalue="Applet.PraktijkOpdrachtH12" />
+      <item itemvalue="Applet.Opdracht13_1" />
+      <item itemvalue="Applet.Opdracht13_2" />
+      <item itemvalue="Applet.Opdracht13_3" />
+      <item itemvalue="Applet.PraktijkOpdrachtH13" />
+      <item itemvalue="Applet.PraktijkOpdracht2H13" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -184,99 +528,11 @@
       <workItem from="1604567051742" duration="2246000" />
       <workItem from="1604861782463" duration="355000" />
       <workItem from="1604919824170" duration="3225000" />
-      <workItem from="1605193984336" duration="4502000" />
-      <workItem from="1606246657878" duration="5252000" />
-      <workItem from="1606498403100" duration="113000" />
-      <workItem from="1606505952535" duration="5190000" />
-      <workItem from="1606515884948" duration="3000" />
-      <workItem from="1606516107383" duration="8000" />
-      <workItem from="1606763283439" duration="7477000" />
-      <workItem from="1606850558826" duration="380000" />
-      <workItem from="1606852519330" duration="6665000" />
-    </task>
-    <task id="LOCAL-00051" summary="added ints + string">
-      <created>1603846672229</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1603846672230</updated>
-    </task>
-    <task id="LOCAL-00052" summary="changed from int to double">
-      <created>1603847629328</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1603847629328</updated>
-    </task>
-    <task id="LOCAL-00053" summary="converted and got the answer">
-      <created>1603849797750</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1603849797750</updated>
-    </task>
-    <task id="LOCAL-00054" summary="vragen gemaakt">
-      <created>1603856560486</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1603856560531</updated>
-    </task>
-    <task id="LOCAL-00055" summary="added String s and s = Textfield.getText();">
-      <created>1603861748926</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1603861748926</updated>
-    </task>
-    <task id="LOCAL-00056" summary="removed &quot;It works!&quot;">
-      <created>1603861819966</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1603861819966</updated>
-    </task>
-    <task id="LOCAL-00057" summary="added s = &quot;&quot;!">
-      <created>1603861874396</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1603861874396</updated>
-    </task>
-    <task id="LOCAL-00058" summary="made a textfield and a button that says &quot;ok&quot; and a button that says &quot;reset&quot;">
-      <created>1603875048528</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1603875048528</updated>
-    </task>
-    <task id="LOCAL-00059" summary="the ok button now shows the message below the textfield and the resetbutton removes everything">
-      <created>1603875680622</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1603875680622</updated>
-    </task>
-    <task id="LOCAL-00060" summary="vragen gemaakt">
-      <created>1604032098100</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1604032098100</updated>
-    </task>
-    <task id="LOCAL-00061" summary="added label, textfield and ok button">
-      <created>1604032684094</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1604032684094</updated>
-    </task>
-    <task id="LOCAL-00062" summary="testing double">
-      <created>1604075190783</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1604075190783</updated>
+      <workItem from="1605686305901" duration="15416000" />
+      <workItem from="1605777768492" duration="11702000" />
+      <workItem from="1606292460189" duration="16080000" />
+      <workItem from="1606382722026" duration="142000" />
+      <workItem from="1606383854077" duration="12222000" />
     </task>
     <task id="LOCAL-00063" summary="realigned numbers, changed text to bedrag">
       <created>1604075383307</created>
@@ -460,84 +716,168 @@
       <option name="project" value="LOCAL" />
       <updated>1605098245713</updated>
     </task>
-    <task id="LOCAL-00089" summary="gives highest number now">
-      <created>1605182096585</created>
+    <task id="LOCAL-00089" summary="chessboard thats 10x10">
+      <created>1605679501011</created>
       <option name="number" value="00089" />
       <option name="presentableId" value="LOCAL-00089" />
       <option name="project" value="LOCAL" />
-      <updated>1605182096592</updated>
+      <updated>1605679501011</updated>
     </task>
-    <task id="LOCAL-00090" summary="tried to do the same as opdracht 1">
-      <created>1605182608985</created>
+    <task id="LOCAL-00090" summary="chessboard is 8x8 now">
+      <created>1605679687154</created>
       <option name="number" value="00090" />
       <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1605182608985</updated>
+      <updated>1605679687154</updated>
     </task>
-    <task id="LOCAL-00091" summary="gives row of fibonacci">
-      <created>1605196443739</created>
+    <task id="LOCAL-00091" summary="chessboard is 8x8 now">
+      <created>1605686539990</created>
       <option name="number" value="00091" />
       <option name="presentableId" value="LOCAL-00091" />
       <option name="project" value="LOCAL" />
-      <updated>1605196443740</updated>
+      <updated>1605686540006</updated>
     </task>
-    <task id="LOCAL-00092" summary="geeft tafel van 3">
-      <created>1605197795009</created>
+    <task id="LOCAL-00092" summary="tekstvak, okknop, teller">
+      <created>1605688796343</created>
       <option name="number" value="00092" />
       <option name="presentableId" value="LOCAL-00092" />
       <option name="project" value="LOCAL" />
-      <updated>1605197795009</updated>
+      <updated>1605688796343</updated>
     </task>
-    <task id="LOCAL-00093" summary="loop gives 50 circles">
-      <created>1605198011632</created>
+    <task id="LOCAL-00093" summary="geeft tafels van 1 tot 10 weer">
+      <created>1605690041641</created>
       <option name="number" value="00093" />
       <option name="presentableId" value="LOCAL-00093" />
       <option name="project" value="LOCAL" />
-      <updated>1605198011632</updated>
+      <updated>1605690041641</updated>
     </task>
-    <task id="LOCAL-00094" summary="12.1 done">
-      <created>1606255349520</created>
+    <task id="LOCAL-00094" summary="geeft de tafel als je nummer in doet">
+      <created>1605693797865</created>
       <option name="number" value="00094" />
       <option name="presentableId" value="LOCAL-00094" />
       <option name="project" value="LOCAL" />
-      <updated>1606255349520</updated>
+      <updated>1605693797865</updated>
     </task>
-    <task id="LOCAL-00095" summary="25 buttons displayed as an array">
-      <created>1606256739671</created>
+    <task id="LOCAL-00095" summary="geeft de tafel als je nummer in doet">
+      <created>1605693840033</created>
       <option name="number" value="00095" />
       <option name="presentableId" value="LOCAL-00095" />
       <option name="project" value="LOCAL" />
-      <updated>1606256739671</updated>
+      <updated>1605693840033</updated>
     </task>
-    <task id="LOCAL-00096" summary="value found gives good text, index also foubd">
-      <created>1606509599115</created>
+    <task id="LOCAL-00096" summary="geeft de tafel als je nummer in doet">
+      <created>1605693883064</created>
       <option name="number" value="00096" />
       <option name="presentableId" value="LOCAL-00096" />
       <option name="project" value="LOCAL" />
-      <updated>1606509599115</updated>
+      <updated>1605693883064</updated>
     </task>
-    <task id="LOCAL-00097" summary="added break;">
-      <created>1606510751387</created>
+    <task id="LOCAL-00097" summary="vragen gemaakt">
+      <created>1605694249617</created>
       <option name="number" value="00097" />
       <option name="presentableId" value="LOCAL-00097" />
       <option name="project" value="LOCAL" />
-      <updated>1606510751388</updated>
+      <updated>1605694249617</updated>
     </task>
-    <task id="LOCAL-00098" summary="textfield and button">
-      <created>1606768603428</created>
+    <task id="LOCAL-00098" summary="tabel gemaakt met 10 nummers">
+      <created>1605702975587</created>
       <option name="number" value="00098" />
       <option name="presentableId" value="LOCAL-00098" />
       <option name="project" value="LOCAL" />
-      <updated>1606768603428</updated>
+      <updated>1605702975587</updated>
     </task>
-    <task id="LOCAL-00099" summary="applet shows value and gives the amount of times it shows up">
-      <created>1606773716866</created>
+    <task id="LOCAL-00099" summary="tabel gemaakt met 10 nummers">
+      <created>1605703366462</created>
       <option name="number" value="00099" />
       <option name="presentableId" value="LOCAL-00099" />
       <option name="project" value="LOCAL" />
-      <updated>1606773716866</updated>
+      <updated>1605703366462</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="temporary selfcalculated gemiddelde">
+      <created>1605779941321</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1605779941323</updated>
+    </task>
+    <task id="LOCAL-00101" summary="textfield arrays added and a for loop">
+      <created>1606292935854</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1606292935856</updated>
+    </task>
+    <task id="LOCAL-00102" summary="removed a variable">
+      <created>1606293344271</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1606293344271</updated>
+    </task>
+    <task id="LOCAL-00103" summary="removed a variable">
+      <created>1606306217125</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1606306217125</updated>
+    </task>
+    <task id="LOCAL-00104" summary="for loops made, new int, sorts numbers now">
+      <created>1606310122796</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1606310122797</updated>
+    </task>
+    <task id="LOCAL-00105" summary="button, textfield and for loop made">
+      <created>1606311415655</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1606311415655</updated>
+    </task>
+    <task id="LOCAL-00106" summary="changed getText to setText">
+      <created>1606311564779</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1606311564779</updated>
+    </task>
+    <task id="LOCAL-00107" summary="changed getText to setText">
+      <created>1606311914035</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1606311914035</updated>
+    </task>
+    <task id="LOCAL-00108" summary="for loops, if statements added">
+      <created>1606392585590</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1606392585591</updated>
+    </task>
+    <task id="LOCAL-00109" summary="copied 12.4 to 12.6">
+      <created>1606392899744</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1606392899744</updated>
+    </task>
+    <task id="LOCAL-00110" summary="fixed actionlistener">
+      <created>1606392920750</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1606392920750</updated>
+    </task>
+    <task id="LOCAL-00111" summary="added int index">
+      <created>1606393797103</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1606393797103</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,12 +896,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="calculator made" />
-    <MESSAGE value="vragen gemaakt" />
-    <MESSAGE value="if statement added" />
-    <MESSAGE value="added button, made some changes to classes" />
-    <MESSAGE value="switch statement made" />
-    <MESSAGE value="added correct number of days in a month, the text appears now, everything works as it should" />
     <MESSAGE value="removed 29 from february" />
     <MESSAGE value="added jaartal" />
     <MESSAGE value="has if statement, textfield, label, not working button" />
@@ -570,17 +904,33 @@
     <MESSAGE value="for statements made, vertical lines from 1 to 10 appear on applet" />
     <MESSAGE value="while statement, it counts down starting from 20 ending at 11 showing 10 numbers" />
     <MESSAGE value="on applet appears 5 squares diagonally" />
-    <MESSAGE value="gives highest number now" />
-    <MESSAGE value="tried to do the same as opdracht 1" />
-    <MESSAGE value="gives row of fibonacci" />
-    <MESSAGE value="geeft tafel van 3" />
-    <MESSAGE value="loop gives 50 circles" />
-    <MESSAGE value="12.1 done" />
-    <MESSAGE value="25 buttons displayed as an array" />
-    <MESSAGE value="value found gives good text, index also foubd" />
-    <MESSAGE value="added break;" />
-    <MESSAGE value="textfield and button" />
-    <MESSAGE value="applet shows value and gives the amount of times it shows up" />
-    <option name="LAST_COMMIT_MESSAGE" value="applet shows value and gives the amount of times it shows up" />
+    <MESSAGE value="chessboard thats 10x10" />
+    <MESSAGE value="chessboard is 8x8 now" />
+    <MESSAGE value="tekstvak, okknop, teller" />
+    <MESSAGE value="geeft tafels van 1 tot 10 weer" />
+    <MESSAGE value="geeft de tafel als je nummer in doet" />
+    <MESSAGE value="vragen gemaakt" />
+    <MESSAGE value="tabel gemaakt met 10 nummers" />
+    <MESSAGE value="temporary selfcalculated gemiddelde" />
+    <MESSAGE value="textfield arrays added and a for loop" />
+    <MESSAGE value="removed a variable" />
+    <MESSAGE value="for loops made, new int, sorts numbers now" />
+    <MESSAGE value="button, textfield and for loop made" />
+    <MESSAGE value="changed getText to setText" />
+    <MESSAGE value="for loops, if statements added" />
+    <MESSAGE value="copied 12.4 to 12.6" />
+    <MESSAGE value="fixed actionlistener" />
+    <MESSAGE value="added int index" />
+    <option name="LAST_COMMIT_MESSAGE" value="added int index" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
