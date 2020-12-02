@@ -15,7 +15,7 @@ public class PraktijkOpdrachtH12 extends Applet implements ActionListener {
     int teller = 0;
 
     public void init() {
-        okknop = new Button("fantastic! Oalright");
+        okknop = new Button("Ok");
         okknop.addActionListener(this);
         namentekstvak = new TextField("", 10);
         nummertekstvak = new TextField("", 10);
