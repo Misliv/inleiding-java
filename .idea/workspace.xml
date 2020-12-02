@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h12/PraktijkOpdrachtH12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/PraktijkOpdrachtH12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h13/Opdracht13_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/Opdracht13_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -536,20 +534,6 @@
       <workItem from="1606382722026" duration="142000" />
       <workItem from="1606383854077" duration="12222000" />
     </task>
-    <task id="LOCAL-00065" summary="removed btw, added equation to s">
-      <created>1604312142207</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1604312142207</updated>
-    </task>
-    <task id="LOCAL-00066" summary="removed string s, added back prijs">
-      <created>1604312380226</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1604312380226</updated>
-    </task>
     <task id="LOCAL-00067" summary="added &quot;prijs + btw:&quot;">
       <created>1604312419369</created>
       <option name="number" value="00067" />
@@ -879,7 +863,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606897659769</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="method for tree drawing">
+      <created>1606903378099</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1606903378099</updated>
+    </task>
+    <task id="LOCAL-00115" summary="copy pasted PraktijkOpdrachtH13 to PraktijkOpdracht2H13">
+      <created>1606903472923</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1606903472923</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -898,8 +896,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="has if statement, textfield, label, not working button" />
-    <MESSAGE value="added gemiddelde, voldoende of onvoldoende" />
     <MESSAGE value="switch statements that say if the numbers from 1 to 10 are good or not" />
     <MESSAGE value="for statements made, vertical lines from 1 to 10 appear on applet" />
     <MESSAGE value="while statement, it counts down starting from 20 ending at 11 showing 10 numbers" />
@@ -923,7 +919,9 @@
     <MESSAGE value="added int index" />
     <MESSAGE value="3 drawlines that line up to make a triangle" />
     <MESSAGE value="brick wall thats made from 2 for loops with an if statement that makes rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="brick wall thats made from 2 for loops with an if statement that makes rows" />
+    <MESSAGE value="method for tree drawing" />
+    <MESSAGE value="copy pasted PraktijkOpdrachtH13 to PraktijkOpdracht2H13" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy pasted PraktijkOpdrachtH13 to PraktijkOpdracht2H13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
