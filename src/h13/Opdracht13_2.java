@@ -5,29 +5,25 @@ import java.applet.*;
 
 
 public class Opdracht13_2 extends Applet {
-
-    boolean gevonden;
-    double[] salaris = { 100.0, 200.0, 500.0, 400.0, 300.0 };
-    double gezocht;
-
+    int baksteen = 15;
     public void init() {
-        gezocht = 400;
-        gevonden = false;
-        int teller = 0;
-        while(teller < salaris.length) {
-            if(salaris[teller] == gezocht) {
-                gevonden = true;
+
+    }
+    public void paint(Graphics g) {
+        int x;
+        int y;
+        for (int rij = 0; rij < baksteen; rij++) {
+            for (int kolom = 0; kolom < baksteen; kolom++) {
+            x = rij * 30;
+            y = kolom * 25;
+                if ((rij % 2 == 0) == (kolom % 2 == 0))
+            tekenRodeBaksteen(g, x, y, 50, 20);
             }
-            teller ++;
         }
     }
+    void tekenRodeBaksteen(Graphics g, int x, int y, int width, int height) {
+        g.setColor(Color.RED);
+        g.fillRect(x, y, width, height);
 
-    public void paint(Graphics g) {
-        if(gevonden == true) {
-            g.drawString("De waarde is gevonden.", 20, 50);
-        }
-        else {
-            g.drawString("De waarde is niet gevonden.", 20, 50);
-        }
     }
 }

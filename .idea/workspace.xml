@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h13/Opdracht13_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/Opdracht13_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/Opdracht13_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/Opdracht13_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht13_1">
+  <component name="RunManager" selected="Applet.Opdracht13_2">
     <configuration name="Opdracht10_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h10.Opdracht10_1" />
       <module name="inleiding-java" />
@@ -534,13 +534,6 @@
       <workItem from="1606382722026" duration="142000" />
       <workItem from="1606383854077" duration="12222000" />
     </task>
-    <task id="LOCAL-00063" summary="realigned numbers, changed text to bedrag">
-      <created>1604075383307</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1604075383307</updated>
-    </task>
     <task id="LOCAL-00064" summary="added btw">
       <created>1604310893313</created>
       <option name="number" value="00064" />
@@ -877,7 +870,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606393797103</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="3 drawlines that line up to make a triangle">
+      <created>1606895897254</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1606895897255</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -896,7 +896,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="removed 29 from february" />
     <MESSAGE value="added jaartal" />
     <MESSAGE value="has if statement, textfield, label, not working button" />
     <MESSAGE value="added gemiddelde, voldoende of onvoldoende" />
@@ -921,7 +920,8 @@
     <MESSAGE value="copied 12.4 to 12.6" />
     <MESSAGE value="fixed actionlistener" />
     <MESSAGE value="added int index" />
-    <option name="LAST_COMMIT_MESSAGE" value="added int index" />
+    <MESSAGE value="3 drawlines that line up to make a triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 drawlines that line up to make a triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
