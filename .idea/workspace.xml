@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="buttons give brick wall or concrete wall depending on which button pressed">
-      <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" afterDir="false" />
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="made a tree">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Applet.PraktijkOpdrachtH13">
+  <component name="RunManager" selected="Applet.PraktijkOpdracht2H13">
     <configuration name="Opdracht12_1" type="Applet" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h12.Opdracht12_1" />
       <module name="inleiding-java" />
@@ -226,14 +227,7 @@
       <workItem from="1606852519330" duration="6665000" />
       <workItem from="1607088013479" duration="2323000" />
       <workItem from="1607096591411" duration="797000" />
-      <workItem from="1607340836216" duration="6885000" />
-    </task>
-    <task id="LOCAL-00052" summary="changed from int to double">
-      <created>1603847629328</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1603847629328</updated>
+      <workItem from="1607340836216" duration="11084000" />
     </task>
     <task id="LOCAL-00053" summary="converted and got the answer">
       <created>1603849797750</created>
@@ -571,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607361484508</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="made a tree">
+      <created>1607361771319</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1607361771319</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +591,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="vragen gemaakt" />
     <MESSAGE value="if statement added" />
     <MESSAGE value="added button, made some changes to classes" />
     <MESSAGE value="switch statement made" />
@@ -615,6 +615,7 @@
     <MESSAGE value="textfield and button" />
     <MESSAGE value="applet shows value and gives the amount of times it shows up" />
     <MESSAGE value="buttons give brick wall or concrete wall depending on which button pressed" />
-    <option name="LAST_COMMIT_MESSAGE" value="buttons give brick wall or concrete wall depending on which button pressed" />
+    <MESSAGE value="made a tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="made a tree" />
   </component>
 </project>
