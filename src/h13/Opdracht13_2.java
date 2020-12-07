@@ -16,7 +16,7 @@ public class Opdracht13_2 extends Applet {
             for (int kolom = 0; kolom < baksteen; kolom++) {
             x = rij * 30;
             y = kolom * 25;
-                if ((rij % 2 == 0) == (kolom % 2 == 0))
+               if ((rij % 2 == 0) == (kolom % 2 == 0))
             tekenRodeBaksteen(g, x, y, 50, 20);
             }
         }
