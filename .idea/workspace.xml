@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="made a tree">
+    <list default="true" id="fac95118-09a4-4cea-b56a-c85d685cbc8b" name="Default Changelist" comment="trees, kinda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdracht2H13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h13/PraktijkOpdrachtH13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,14 +228,9 @@
       <workItem from="1606852519330" duration="6665000" />
       <workItem from="1607088013479" duration="2323000" />
       <workItem from="1607096591411" duration="797000" />
-      <workItem from="1607340836216" duration="11084000" />
-    </task>
-    <task id="LOCAL-00053" summary="converted and got the answer">
-      <created>1603849797750</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1603849797750</updated>
+      <workItem from="1607340836216" duration="11723000" />
+      <workItem from="1607434451300" duration="4711000" />
+      <workItem from="1607455624301" duration="618000" />
     </task>
     <task id="LOCAL-00054" summary="vragen gemaakt">
       <created>1603856560486</created>
@@ -572,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607361771319</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="trees, kinda">
+      <created>1607377377798</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1607377377798</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +594,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if statement added" />
     <MESSAGE value="added button, made some changes to classes" />
     <MESSAGE value="switch statement made" />
     <MESSAGE value="added correct number of days in a month, the text appears now, everything works as it should" />
@@ -616,6 +618,7 @@
     <MESSAGE value="applet shows value and gives the amount of times it shows up" />
     <MESSAGE value="buttons give brick wall or concrete wall depending on which button pressed" />
     <MESSAGE value="made a tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="made a tree" />
+    <MESSAGE value="trees, kinda" />
+    <option name="LAST_COMMIT_MESSAGE" value="trees, kinda" />
   </component>
 </project>
